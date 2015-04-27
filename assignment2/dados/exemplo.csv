@@ -1,0 +1,33 @@
+country5,name,Portugal
+club104,name,Benfica
+club104,from_country,country5
+player361,name,Maxi Pereira
+player361,age,30
+player361,position,DF
+player361,in_team,country44
+player361,team_presences,89
+player361,in_club,club104
+country44,name,Uruguay
+team16,group,D
+team16,from_country,country44
+team16,captain,player347
+player347,name,Diego Lugano (c)
+player347,age,33
+player347,position,DF
+player347,in_team,country44
+player347,team_presences,93
+player347,in_club,club100
+club100,name,West Bromwich Albion
+club100,from_country,country3
+country3,name,England
+
+<http://ws_60015_76169.com/country5> <http://xmlns.com/work/name> "Portugal".
+<http://ws_60015_76169.com/country44> <http://xmlns.com/work/name> "Uruguay".
+<http://ws_60015_76169.com/club104> <http://xmlns.com/work/name> "Benfica".
+<http://ws_60015_76169.com/club104> <http://xmlns.com/work/from_country> <http://ws_60015_76169.com/country5>.
+<http://ws_60015_76169.com/player361> <http://xmlns.com/work/name> "MaxiPereira".
+<http://ws_60015_76169.com/player361> <http://xmlns.com/work/age> "30"^^<http://www.w3.org/2001/XMLSchema#int>.
+<http://ws_60015_76169.com/player361> <http://xmlns.com/work/position> "DF".
+<http://ws_60015_76169.com/player361> <http://xmlns.com/work/in_team> <http://ws_60015_76169.com/country44>.
+<http://ws_60015_76169.com/player361> <http://xmlns.com/work/team_presences> "89"^^<http://www.w3.org/2001/XMLSchema#int>.
+<http://ws_60015_76169.com/player361> <http://xmlns.com/work/in_club> <http://ws_60015_76169.com/club104>.
