@@ -15,9 +15,12 @@ filePathDB = "E:\\WS trab2\\Semantic-web-rdf-app\\assignment2\\dados\\dados.db"
 c = converter.converter()
 
 # Convert CSV file to NT file
+print("Loading CSV data...")
 c.convert_csv_to_nt(filePathCSV, filePathNT)
+print("NT file created!")
 # load (automatically) NT file to graph - function f2()
-c.read_NTfile_to_graph(filePathNT)
+graph = c.read_NTfile_to_graph(filePathNT)
+print("Graph created!")
 
 # Convert NT file
 def f1():
@@ -31,29 +34,33 @@ def f1():
 # Convert NT file to RDF/ML file
 def f1_1():
     c.convert_NTfile_to_rdfXML_format(filePathXML)
+    print("Conversion completed!")
 
 # Convert NT file to N3 file
 def f1_2():
     c.convert_NTfile_to_N3_format(filePathN3)
+    print("Conversion completed!")
 
 # Load NT file - probably will be deleted because we do the same in the beginning of the script
 def f2():
     # insert data in graph (located in converter.py)
     # very important, the graph is in converter.py (self.graph)
-    c.read_NTfile_to_graph(filePathNT)
+    graph = c.read_NTfile_to_graph(filePathNT)
 
-# Store data in DB (SQLite) - not working
+# Store data in DB (SQLite) - convert NT_file data in DB file
 def f3():
-    # usar para a query
-    '''graph = c.getGraph()
+    c.convert_NTfile_to_DB_format(filePathDB)
+    print("Conversion completed!")
 
-    g = rdflib.ConjunctiveGraph('SQLite')
-    g.open(filePathDB, create=True)
-    for t in graph.triples((None, None, None)):
-        g.add(t)
-    g.commit()
-    g.close()'''
-    print("not working yet...")
+
+#-----------------TESTES-----------------
+# get predicates list
+def f4():
+    graph = c.getGraph()
+    lista = set(graph.predicates())
+    for a in lista:
+        print(a)
+
 
 def f0():
     sys.exit()
@@ -68,6 +75,7 @@ menuOptions = {
     1: f1,
     2: f2,
     3: f3,
+    4: f4,
     0: f0,
 }
 
@@ -84,7 +92,7 @@ def readIntegerValue(str, min, max):
 while True:
     print("\n*** WorldCup 2014 - Brazil ***")
     print("1. Convert NT file")
-    print("2. Load NT file")
+    print("2. Load NT file (not needed...)")
     print("3. Store data in DB (SQLite)")
     print("0. Exit")
     str = input("Option -> ")

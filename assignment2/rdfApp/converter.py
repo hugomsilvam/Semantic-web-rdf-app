@@ -1,5 +1,6 @@
 import csv
 from rdflib import ConjunctiveGraph
+import rdflib
 
 __author__ = 'Hugo Silva'
 
@@ -10,7 +11,7 @@ Of course, all the dados.csv will be converted to RDF/NT (.nt format file) follo
 
 Example: <http://ws_60015_76169.com/club/1> <http://xmlns.com/work/name> "Benfica".
 Age Player and Team presences -> integer objects are writen in this form: "30"^^<http://www.w3.org/2001/XMLSchema#int>.
-all the rest atributes are strings and ids.
+all the rest atributes are strings and ids (URIs).
 
 -----------------Countrys example:-----------------
     <http://ws_60015_76169.com/country5> <http://xmlns.com/work/name> "Portugal".
@@ -63,7 +64,7 @@ class converter:
 
     #read NT file and create graph
     def read_NTfile_to_graph(self, filePathNT):
-        self.graph.parse(filePathNT, format="nt")
+        return self.graph.parse(filePathNT, format="nt")
 
     # save NT file data into RDF/XML format
     def convert_NTfile_to_rdfXML_format(self, filePathXML):
@@ -77,6 +78,13 @@ class converter:
         ofN3.write(self.graph.serialize(format="n3"))
         ofN3.close()
 
+    def convert_NTfile_to_DB_format(self, filePathDB):
+        g = rdflib.ConjunctiveGraph('SQLite')
+        g.open(filePathDB, create=True)
+        for t in self.graph.triples((None, None, None)):
+            g.add(t)
+        g.commit()
+        g.close()
 
     # get graph data
     def getGraph(self):
@@ -107,13 +115,13 @@ class converter:
                 # verify if obj exists in dictionary
                 if obj in dictionary_sub_newSub: # ex: if country5 in dictionary, newObj = <http://ws_60015_76169.com/country5>
                     newObj = dictionary_sub_newSub[obj]
-                    print("%s %s %s%s" %(newSub, newPred, newObj, dotPoint))
+                    #print("%s %s %s%s" %(newSub, newPred, newObj, dotPoint))
                     aux = str.format("%s %s %s%s" %(newSub, newPred, newObj, dotPoint))
                     arrayLines.append(aux)
 
                 else: # if not, save in dictionary (ex: country4 : <http://..../country4>)
                     dictionary_sub_newSub[obj] = newObj
-                    print("%s %s %s%s" %(newSub, newPred, dictionary_sub_newSub[obj], dotPoint))
+                    #print("%s %s %s%s" %(newSub, newPred, dictionary_sub_newSub[obj], dotPoint))
                     aux = str.format("%s %s %s%s" %(newSub, newPred, dictionary_sub_newSub[obj], dotPoint))
                     arrayLines.append(aux)
 
@@ -123,12 +131,12 @@ class converter:
                 if "team_presences" in pred or "age" in pred:
                     integerTypeObj = "\""+obj+"\""+xmlIntegerStruture
                     dictionary_sub_newSub[sub] = newSub
-                    print("%s %s %s%s" %(newSub, newPred, integerTypeObj, dotPoint))
+                    #print("%s %s %s%s" %(newSub, newPred, integerTypeObj, dotPoint))
                     aux = str.format("%s %s %s%s" %(newSub, newPred, integerTypeObj, dotPoint))
                     arrayLines.append(aux)
 
                 else: # pred values are strings
-                    print("%s %s \"%s\"%s" %(newSub, newPred, obj, dotPoint))
+                    #print("%s %s \"%s\"%s" %(newSub, newPred, obj, dotPoint))
                     aux = str.format("%s %s \"%s\"%s" %(newSub, newPred, obj, dotPoint))
                     arrayLines.append(aux)
         f.close()
