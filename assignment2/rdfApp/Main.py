@@ -3,7 +3,7 @@ import os
 import rdflib
 from rdflib import ConjunctiveGraph
 import sys
-from rdfApp import converter
+from rdfApp import converter, Queries
 
 
 __author__ = 'Hugo Silva'
@@ -60,14 +60,23 @@ def f3():
     print("Conversion completed!")
 
 
-#-----------------TESTES-----------------
-# get predicates list
+#-----------------Queries-----------------
+# List countrys
 def f4():
-    graph = c.getGraph()
-    lista = set(graph.predicates())
-    for a in lista:
-        print(a)
+    results = Queries.f1(graph)
+    for subject, name in results:
+        print(name)
+    print("Number of countrys: %d" %(len(results)))
 
+# List Players name
+def f5():
+    results = Queries.f2(graph)
+    for subject, name in results:
+        print(name)
+    print("Number of players: %d" %(len(results)))
+
+def f6():
+    a = 1
 
 def f0():
     sys.exit()
@@ -83,6 +92,8 @@ menuOptions = {
     2: f2,
     3: f3,
     4: f4,
+    5: f5,
+    6: f6,
     0: f0,
 }
 
@@ -101,6 +112,16 @@ while True:
     print("1. Convert NT file")
     print("2. Load NT file (not needed...)")
     print("3. Store data in DB (SQLite)")
+    print("4. List Countrys name")
+    print("5. List Players name")
+    print("6. List data from Player name")
+    print("7. List clubs who have players playing in the world cup")
+    print("8. Listar clubes cujo jogadores participarem no mundial de um determinado País")
+    print("6. Listar jogadores de uma determinada Seleção")
+    print("7. Listar jogadores de um determinado clube")
+    print("8. Listar dados de um jogador com base em inferencias")
+    print("9. Gerar ficheiro para visualizar o Grafo(.dot)")
+    print("10. Gerar ficheiro para visualizar o Grafo(.dot) com dados de Portugal")
     print("0. Exit")
     str = input("Option -> ")
     option = readIntegerValue(str, 0, 10)

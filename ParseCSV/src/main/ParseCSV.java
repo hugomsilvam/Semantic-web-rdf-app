@@ -53,6 +53,7 @@ public class ParseCSV {
             i++;
             String countryName = (String) country_iterator.next();
             country_map.put("country/" + i, countryName); //colocar nomes dos paises e respectivos ids num hashmap
+            generate_tripleStore(country_csv, "country/" + i, "countryID", Integer.toString(i));
             generate_tripleStore(country_csv, "country/" + i, "name", countryName);
         }
 
@@ -75,6 +76,7 @@ public class ParseCSV {
             Map.Entry pair = (Map.Entry) club_iterator.next();
             String clubName = (String) pair.getKey();
             String clubCountryID = (String) pair.getValue();
+            generate_tripleStore(club_csv, "club/" + i1, "clubID", Integer.toString(i1));
             generate_tripleStore(club_csv, "club/" + i1, "name", clubName);
             generate_tripleStore(club_csv, "club/" + i1, "from_country", clubCountryID);
         }
@@ -103,6 +105,7 @@ public class ParseCSV {
             String player_club_name = lineData[10];
 
             savePlayerData("player/" + i3, player_name);
+            generate_tripleStore(player_csv, "player/" + i3, "playerID", Integer.toString(i3));
             generate_tripleStore(player_csv, "player/" + i3, "name", player_name);
             generate_tripleStore(player_csv, "player/" + i3, "age", player_age);
             generate_tripleStore(player_csv, "player/" + i3, "position", player_position);
@@ -123,6 +126,7 @@ public class ParseCSV {
             if (player_is_captain.equalsIgnoreCase("TRUE")) {
                 saveTeamData(team_name, player_name);
                 i5++;
+                generate_tripleStore(team_csv, "team/" + i5, "teamID", Integer.toString(i5));
                 generate_tripleStore(team_csv, "team/" + i5, "group", team_group);
                 generate_tripleStore(team_csv, "team/" + i5, "from_country", (String) getKeyFromValue(country_map, team_name));
                 generate_tripleStore(team_csv, "team/" + i5, "captain", (String) getKeyFromValue(player_map, player_name));

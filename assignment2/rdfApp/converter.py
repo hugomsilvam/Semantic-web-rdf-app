@@ -88,7 +88,10 @@ class converter:
 
     # get graph data
     def getGraph(self):
-        return self.graph;
+        return self.graph
+
+    def setGraph(self):
+        self.graph = None
 
 
     # secondary function: read file and save new data into arrayLines
@@ -128,7 +131,7 @@ class converter:
             # if obj its plain text (string), then save in dictionary the old subject and the new rdf subject
             else:
                 # if obj values are integer, add xmlIntegerStrture to newObj
-                if "team_presences" in pred or "age" in pred:
+                if "team_presences" in pred or "age" in pred or "ID" in pred:
                     integerTypeObj = "\""+obj+"\""+xmlIntegerStruture
                     dictionary_sub_newSub[sub] = newSub
                     #print("%s %s %s%s" %(newSub, newPred, integerTypeObj, dotPoint))
