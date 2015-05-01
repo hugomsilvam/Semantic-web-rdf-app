@@ -1,3 +1,5 @@
+import inspect
+import os
 import rdflib
 from rdflib import ConjunctiveGraph
 import sys
@@ -6,11 +8,16 @@ from rdfApp import converter
 
 __author__ = 'Hugo Silva'
 
-filePathCSV = "E:\\WS trab2\\Semantic-web-rdf-app\\assignment2\\dados\\dados.csv"
-filePathNT = "E:\\WS trab2\\Semantic-web-rdf-app\\assignment2\\dados\\dados.nt"
-filePathXML = "E:\\WS trab2\\Semantic-web-rdf-app\\assignment2\\dados\\dados.xml"
-filePathN3 = "E:\\WS trab2\\Semantic-web-rdf-app\\assignment2\\dados\\dados.n3"
-filePathDB = "E:\\WS trab2\\Semantic-web-rdf-app\\assignment2\\dados\\dados.db"
+# procedure chosen to automatically the program read and create data files in a specific data directory outside the application directory
+rdfAppDir = os.path.dirname(os.path.abspath(inspect.getfile(inspect.currentframe())))
+assignment2Dir = os.path.dirname(os.path.abspath(rdfAppDir))
+dataDir = os.path.dirname(os.path.abspath(assignment2Dir))
+
+filePathCSV = dataDir+"/dados/dados.csv"
+filePathNT = dataDir+"/dados/dados.nt"
+filePathXML = dataDir+"/dados/dados.xml"
+filePathN3 = dataDir+"/dados/dados.n3"
+filePathDB = dataDir+"/dados/dados.db"
 
 c = converter.converter()
 

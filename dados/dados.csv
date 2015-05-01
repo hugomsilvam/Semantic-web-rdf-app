@@ -1,0 +1,5159 @@
+country/1,name,Cameroon
+country/2,name,Wales
+country/3,name,England
+country/4,name,Paraguay
+country/5,name,Portugal
+country/6,name,Greece
+country/7,name,Austria
+country/8,name,South Korea
+country/9,name,Iran
+country/10,name,Monaco
+country/11,name,Brazil
+country/12,name,Algeria
+country/13,name,Chile
+country/14,name,Colombia
+country/15,name,Ecuador
+country/16,name,Argentina
+country/17,name,Hungary
+country/18,name,Japan
+country/19,name,Ukraine
+country/20,name,Bosnia & Herzogowina
+country/21,name,Ghana
+country/22,name,Canada
+country/23,name,Turkey
+country/24,name,Saudi
+country/25,name,Belgium
+country/26,name,Italy
+country/27,name,Honduras
+country/28,name,Germany
+country/29,name,United States
+country/30,name,Scotland
+country/31,name,Ivory Coast
+country/32,name,Russia
+country/33,name,Costa Rica
+country/34,name,Netherlands
+country/35,name,Sweden
+country/36,name,China
+country/37,name,Qatar
+country/38,name,France
+country/39,name,Kuwait
+country/40,name,Nigeria
+country/41,name,Bulgaria
+country/42,name,Tunisia
+country/43,name,Croatia
+country/44,name,Uruguay
+country/45,name,South
+country/46,name,Switzerland
+country/47,name,Spain
+country/48,name,Costa
+country/49,name,Norway
+country/50,name,Denmark
+country/51,name,Mexico
+country/52,name,Israel
+country/53,name,Australia
+club/1,name,Seattle Sounders FC
+club/1,from_country,country/29
+club/2,name,Jeonbuk Hyundai Motors
+club/2,from_country,country/8
+club/3,name,Fulham
+club/3,from_country,country/3
+club/4,name,Olympiacos
+club/4,from_country,country/6
+club/5,name,Bordeaux
+club/5,from_country,country/38
+club/6,name,LDU Quito
+club/6,from_country,country/15
+club/7,name,Ulsan Hyundai
+club/7,from_country,country/8
+club/8,name,Platanias
+club/8,from_country,country/6
+club/9,name,Strømsgodset
+club/9,from_country,country/49
+club/10,name,Newcastle United
+club/10,from_country,country/3
+club/11,name,Valenciennes
+club/11,from_country,country/38
+club/12,name,PSV Eindhoven
+club/12,from_country,country/34
+club/13,name,Eintracht Braunschweig
+club/13,from_country,country/28
+club/14,name,Atlético Madrid
+club/14,from_country,country/47
+club/15,name,Columbus Crew
+club/15,from_country,country/29
+club/16,name,Stabæk
+club/16,from_country,country/49
+club/17,name,Vitesse
+club/17,from_country,country/34
+club/18,name,Zürich
+club/18,from_country,country/46
+club/19,name,1899 Hoffenheim
+club/19,from_country,country/28
+club/20,name,Motagua
+club/20,from_country,country/27
+club/21,name,Hull City
+club/21,from_country,country/3
+club/22,name,Grasshopper
+club/22,from_country,country/46
+club/23,name,Bayer Leverkusen
+club/23,from_country,country/28
+club/24,name,Atlético Nacional
+club/24,from_country,country/14
+club/25,name,Reims
+club/25,from_country,country/38
+club/26,name,Santa Fe
+club/26,from_country,country/14
+club/27,name,Rosenborg
+club/27,from_country,country/49
+club/28,name,Celtic
+club/28,from_country,country/30
+club/29,name,Ferencváros
+club/29,from_country,country/17
+club/30,name,Milan
+club/30,from_country,country/26
+club/31,name,Bastia
+club/31,from_country,country/38
+club/32,name,Gombe United
+club/32,from_country,country/40
+club/33,name,Gaziantepspor
+club/33,from_country,country/23
+club/34,name,AZ
+club/34,from_country,country/34
+club/35,name,Espérance
+club/35,from_country,country/42
+club/36,name,Rica Herediano
+club/36,from_country,country/33
+club/37,name,Atalanta
+club/37,from_country,country/26
+club/38,name,Tractor Sazi
+club/38,from_country,country/9
+club/39,name,Lille
+club/39,from_country,country/38
+club/40,name,Sporting CP
+club/40,from_country,country/5
+club/41,name,Norwich City
+club/41,from_country,country/3
+club/42,name,Beijing Guoan
+club/42,from_country,country/36
+club/43,name,Juventus
+club/43,from_country,country/26
+club/44,name,Konyaspor
+club/44,from_country,country/23
+club/45,name,Atlético Mineiro
+club/45,from_country,country/11
+club/46,name,Crystal Palace
+club/46,from_country,country/3
+club/47,name,Ashdod
+club/47,from_country,country/52
+club/48,name,Basel
+club/48,from_country,country/46
+club/49,name,Hertha BSC
+club/49,from_country,country/28
+club/50,name,Dynamo Kyiv
+club/50,from_country,country/19
+club/51,name,Arsenal
+club/51,from_country,country/3
+club/52,name,Kuban Krasnodar
+club/52,from_country,country/32
+club/53,name,Ajax
+club/53,from_country,country/34
+club/54,name,Deportivo Cali
+club/54,from_country,country/14
+club/55,name,Ajaccio
+club/55,from_country,country/38
+club/56,name,Newell's Old Boys
+club/56,from_country,country/16
+club/57,name,Elazığspor
+club/57,from_country,country/23
+club/58,name,Hapoel Be'er Sheva
+club/58,from_country,country/52
+club/59,name,Lyon
+club/59,from_country,country/38
+club/60,name,Kayseri Erciyesspor
+club/60,from_country,country/23
+club/61,name,Fethiyespor
+club/61,from_country,country/23
+club/62,name,Internacional
+club/62,from_country,country/11
+club/63,name,Hannover 96
+club/63,from_country,country/28
+club/64,name,Africa Orlando Pirates
+club/64,from_country,country/45
+club/65,name,Southampton
+club/65,from_country,country/3
+club/66,name,Sporting Kansas City
+club/66,from_country,country/29
+club/67,name,Palmeiras
+club/67,from_country,country/11
+club/68,name,Africa Mamelodi Sundowns
+club/68,from_country,country/45
+club/69,name,Sanfrecce Hiroshima
+club/69,from_country,country/18
+club/70,name,Everton
+club/70,from_country,country/3
+club/71,name,SC Freiburg
+club/71,from_country,country/28
+club/72,name,Villarreal
+club/72,from_country,country/47
+club/73,name,Pachuca
+club/73,from_country,country/51
+club/74,name,Vancouver Whitecaps
+club/74,from_country,country/22
+club/75,name,Houston Dynamo
+club/75,from_country,country/29
+club/76,name,Sepahan
+club/76,from_country,country/9
+club/77,name,Newcastle Jets
+club/77,from_country,country/53
+club/78,name,Marseille
+club/78,from_country,country/38
+club/79,name,Heracles Almelo
+club/79,from_country,country/34
+club/80,name,Volyn Lutsk
+club/80,from_country,country/19
+club/81,name,VfL Wolfsburg
+club/81,from_country,country/28
+club/82,name,Fluminense
+club/82,from_country,country/11
+club/83,name,Roma
+club/83,from_country,country/26
+club/84,name,Coton Sport
+club/84,from_country,country/1
+club/85,name,Western Sydney Wanderers
+club/85,from_country,country/53
+club/86,name,Spartak Moscow
+club/86,from_country,country/32
+club/87,name,Liverpool
+club/87,from_country,country/3
+club/88,name,Cagliari
+club/88,from_country,country/26
+club/89,name,Real Madrid
+club/89,from_country,country/47
+club/90,name,Cruz Azul
+club/90,from_country,country/51
+club/91,name,Antalyaspor
+club/91,from_country,country/23
+club/92,name,Qingdao Jonoon
+club/92,from_country,country/36
+club/93,name,Zorya Luhansk
+club/93,from_country,country/19
+club/94,name,Napoli
+club/94,from_country,country/26
+club/95,name,Standard Liège
+club/95,from_country,country/25
+club/96,name,Shakhtar Donetsk
+club/96,from_country,country/19
+club/97,name,Melbourne Victory
+club/97,from_country,country/53
+club/98,name,Santos
+club/98,from_country,country/11
+club/99,name,Yokohama F. Marinos
+club/99,from_country,country/18
+club/100,name,West Bromwich Albion
+club/100,from_country,country/3
+club/101,name,Waasland-Beveren
+club/101,from_country,country/25
+club/102,name,Al-Kuwait
+club/102,from_country,country/39
+club/103,name,Colo-Colo
+club/103,from_country,country/13
+club/104,name,Benfica
+club/104,from_country,country/5
+club/105,name,Arab Emirates Al-Ain
+club/105,from_country,country/29
+club/106,name,Bolton Wanderers
+club/106,from_country,country/3
+club/107,name,Libertad
+club/107,from_country,country/4
+club/108,name,Académica
+club/108,from_country,country/5
+club/109,name,Zenit Saint Petersburg
+club/109,from_country,country/32
+club/110,name,Toronto FC
+club/110,from_country,country/22
+club/111,name,Manchester City
+club/111,from_country,country/3
+club/112,name,Eintracht Frankfurt
+club/112,from_country,country/28
+club/113,name,Cerezo Osaka
+club/113,from_country,country/18
+club/114,name,Fortuna Düsseldorf
+club/114,from_country,country/28
+club/115,name,Nancy
+club/115,from_country,country/38
+club/116,name,Granada
+club/116,from_country,country/47
+club/117,name,Guizhou Renhe
+club/117,from_country,country/36
+club/118,name,Galatasaray
+club/118,from_country,country/23
+club/119,name,Swindon Town
+club/119,from_country,country/3
+club/120,name,Boca Juniors
+club/120,from_country,country/16
+club/121,name,Watford
+club/121,from_country,country/3
+club/122,name,Dinamo Zagreb
+club/122,from_country,country/43
+club/123,name,Young Boys
+club/123,from_country,country/46
+club/124,name,Kawasaki Frontale
+club/124,from_country,country/18
+club/125,name,Utrecht
+club/125,from_country,country/34
+club/126,name,Livorno
+club/126,from_country,country/26
+club/127,name,Arabia Al-Hilal
+club/127,from_country,country/24
+club/128,name,Schalke 4
+club/128,from_country,country/28
+club/129,name,Lokeren
+club/129,from_country,country/25
+club/130,name,Foolad
+club/130,from_country,country/9
+club/131,name,West Ham United
+club/131,from_country,country/3
+club/132,name,Catania
+club/132,from_country,country/26
+club/133,name,Warri Wolves
+club/133,from_country,country/40
+club/134,name,Preston North End
+club/134,from_country,country/3
+club/135,name,Rennes
+club/135,from_country,country/38
+club/136,name,Sochaux
+club/136,from_country,country/38
+club/137,name,Sion
+club/137,from_country,country/46
+club/138,name,Sangju Sangmu
+club/138,from_country,country/8
+club/139,name,Aduana Stars
+club/139,from_country,country/21
+club/140,name,İstanbul BB
+club/140,from_country,country/23
+club/141,name,CSKA Moscow
+club/141,from_country,country/32
+club/142,name,CS Constantine
+club/142,from_country,country/12
+club/143,name,Guangzhou Evergrande
+club/143,from_country,country/36
+club/144,name,São Paulo
+club/144,from_country,country/11
+club/145,name,Torino
+club/145,from_country,country/26
+club/146,name,Real Salt Lake
+club/146,from_country,country/29
+club/147,name,Getafe
+club/147,from_country,country/47
+club/148,name,América
+club/148,from_country,country/51
+club/149,name,Cardiff City
+club/149,from_country,country/2
+club/150,name,Monterrey
+club/150,from_country,country/51
+club/151,name,León
+club/151,from_country,country/51
+club/152,name,Copenhagen
+club/152,from_country,country/50
+club/153,name,Ulsan Hyundai Hyundai
+club/153,from_country,country/8
+club/154,name,Nottingham Forest
+club/154,from_country,country/3
+club/155,name,Genoa
+club/155,from_country,country/26
+club/156,name,Coast Séwé Sport
+club/156,from_country,country/31
+club/157,name,Sunshine Stars
+club/157,from_country,country/40
+club/158,name,CSKA Sofia
+club/158,from_country,country/41
+club/159,name,Lokomotiv Moscow
+club/159,from_country,country/32
+club/160,name,FC Barcelona
+club/160,from_country,country/47
+club/161,name,AIK
+club/161,from_country,country/35
+club/162,name,Osasuna
+club/162,from_country,country/47
+club/163,name,Aston Villa
+club/163,from_country,country/3
+club/164,name,Lekhwiya
+club/164,from_country,country/37
+club/165,name,Stoke City
+club/165,from_country,country/3
+club/166,name,Jubilo Iwata
+club/166,from_country,country/18
+club/167,name,San Lorenzo
+club/167,from_country,country/16
+club/168,name,Cercle Brugge
+club/168,from_country,country/25
+club/169,name,Évian
+club/169,from_country,country/38
+club/170,name,Dynamo Moscow
+club/170,from_country,country/32
+club/171,name,Lokomotiva
+club/171,from_country,country/43
+club/172,name,Lazio
+club/172,from_country,country/26
+club/173,name,Lens
+club/173,from_country,country/38
+club/174,name,Guangzhou R&F
+club/174,from_country,country/36
+club/175,name,Anzhi Makhachkala
+club/175,from_country,country/32
+club/176,name,Toronto
+club/176,from_country,country/22
+club/177,name,Barcelona SC
+club/177,from_country,country/15
+club/178,name,Parma
+club/178,from_country,country/26
+club/179,name,Bologna
+club/179,from_country,country/26
+club/180,name,Hajduk Split
+club/180,from_country,country/43
+club/181,name,Universidad de Chile
+club/181,from_country,country/13
+club/182,name,Sunderland
+club/182,from_country,country/3
+club/183,name,Naft Tehran
+club/183,from_country,country/9
+club/184,name,Çaykur Rizespor
+club/184,from_country,country/23
+club/185,name,Rijeka
+club/185,from_country,country/43
+club/186,name,1860 München
+club/186,from_country,country/28
+club/187,name,Botafogo
+club/187,from_country,country/11
+club/188,name,Las Palmas
+club/188,from_country,country/47
+club/189,name,Leicester City
+club/189,from_country,country/3
+club/190,name,Puebla
+club/190,from_country,country/51
+club/191,name,Olimpia
+club/191,from_country,country/27
+club/192,name,Middlesbrough
+club/192,from_country,country/3
+club/193,name,Adelaide United
+club/193,from_country,country/53
+club/194,name,Nice
+club/194,from_country,country/38
+club/195,name,Braga
+club/195,from_country,country/5
+club/196,name,Zob Ahan
+club/196,from_country,country/9
+club/197,name,Paris Saint-Germain
+club/197,from_country,country/38
+club/198,name,Busan I'Park
+club/198,from_country,country/8
+club/199,name,Espanyol
+club/199,from_country,country/47
+club/200,name,USM Alger
+club/200,from_country,country/12
+club/201,name,Toluca
+club/201,from_country,country/51
+club/202,name,Borussia Mönchengladbach
+club/202,from_country,country/28
+club/203,name,VfR Aalen
+club/203,from_country,country/28
+club/204,name,UANL
+club/204,from_country,country/51
+club/205,name,Malmö FF
+club/205,from_country,country/35
+club/206,name,NEC
+club/206,from_country,country/34
+club/207,name,Bayern Munich
+club/207,from_country,country/28
+club/208,name,Porto
+club/208,from_country,country/5
+club/209,name,Zulte Waregem
+club/209,from_country,country/25
+club/210,name,Arab Emirates Al-Jazira
+club/210,from_country,country/29
+club/211,name,New England Revolution
+club/211,from_country,country/29
+club/212,name,Saint-Étienne
+club/212,from_country,country/38
+club/213,name,Fiorentina
+club/213,from_country,country/26
+club/214,name,Verona
+club/214,from_country,country/26
+club/215,name,Urawa Red Diamonds
+club/215,from_country,country/18
+club/216,name,Gamba Osaka
+club/216,from_country,country/18
+club/217,name,Trabzonspor
+club/217,from_country,country/23
+club/218,name,Nacional
+club/218,from_country,country/44
+club/219,name,Borac Banja
+club/219,from_country,country/20
+club/220,name,Levante
+club/220,from_country,country/47
+club/221,name,Beşiktaş
+club/221,from_country,country/23
+club/222,name,Elche
+club/222,from_country,country/47
+club/223,name,Vasco da Gama
+club/223,from_country,country/11
+club/224,name,Real España
+club/224,from_country,country/27
+club/225,name,Sporting Covilhã
+club/225,from_country,country/5
+club/226,name,Luzern
+club/226,from_country,country/46
+club/227,name,Flamengo
+club/227,from_country,country/11
+club/228,name,Queens Park Rangers
+club/228,from_country,country/3
+club/229,name,Fenerbahçe
+club/229,from_country,country/23
+club/230,name,El Nacional
+club/230,from_country,country/15
+club/231,name,Palermo
+club/231,from_country,country/26
+club/232,name,Suwon Bluewings Bluewings
+club/232,from_country,country/8
+club/233,name,Sturm Graz
+club/233,from_country,country/7
+club/234,name,Monaco
+club/234,from_country,country/38
+club/235,name,Shandong Luneng Taishan
+club/235,from_country,country/36
+club/236,name,Esteghlal
+club/236,from_country,country/9
+club/237,name,Santos Laguna
+club/237,from_country,country/51
+club/238,name,Chelsea
+club/238,from_country,country/3
+club/239,name,Club Africain
+club/239,from_country,country/42
+club/240,name,Terek Grozny
+club/240,from_country,country/32
+club/241,name,Celta Vigo
+club/241,from_country,country/47
+club/242,name,Emelec
+club/242,from_country,country/15
+club/243,name,Tottenham Hotspur
+club/243,from_country,country/3
+club/244,name,Rubin Kazan
+club/244,from_country,country/32
+club/245,name,PAOK
+club/245,from_country,country/6
+club/246,name,Aalesund
+club/246,from_country,country/49
+club/247,name,SC Heerenveen
+club/247,from_country,country/34
+club/248,name,Toulouse
+club/248,from_country,country/38
+club/249,name,Lorient
+club/249,from_country,country/38
+club/250,name,Mainz 05
+club/250,from_country,country/28
+club/251,name,Wigan Athletic
+club/251,from_country,country/3
+club/252,name,Kashiwa Reysol
+club/252,from_country,country/18
+club/253,name,Sevilla
+club/253,from_country,country/47
+club/254,name,Chivas United States
+club/254,from_country,country/29
+club/255,name,River Plate
+club/255,from_country,country/16
+club/256,name,Charlton Athletic
+club/256,from_country,country/3
+club/257,name,New York Red
+club/257,from_country,country/29
+club/258,name,F.C. Tokyo
+club/258,from_country,country/18
+club/259,name,Umm Salal
+club/259,from_country,country/37
+club/260,name,Los Angeles Galaxy
+club/260,from_country,country/29
+club/261,name,Universidad Católica
+club/261,from_country,country/13
+club/262,name,Feyenoord
+club/262,from_country,country/34
+club/263,name,Rica Saprissa
+club/263,from_country,country/33
+club/264,name,Al-Gharafa
+club/264,from_country,country/37
+club/265,name,Atlante
+club/265,from_country,country/51
+club/266,name,Persepolis
+club/266,from_country,country/9
+club/267,name,Krasnodar
+club/267,from_country,country/32
+club/268,name,Internazionale
+club/268,from_country,country/26
+club/269,name,Rostov
+club/269,from_country,country/32
+club/270,name,Mallorca
+club/270,from_country,country/47
+club/271,name,Club Brugge
+club/271,from_country,country/25
+club/272,name,Austria Wien
+club/272,from_country,country/7
+club/273,name,Kayserispor
+club/273,from_country,country/23
+club/274,name,Nantes
+club/274,from_country,country/38
+club/275,name,VfB Stuttgart
+club/275,from_country,country/28
+club/276,name,Swansea City
+club/276,from_country,country/2
+club/277,name,San Jose Earthquakes
+club/277,from_country,country/29
+club/278,name,1. FC Nürnberg
+club/278,from_country,country/28
+club/279,name,Panathinaikos
+club/279,from_country,country/6
+club/280,name,Sassuolo
+club/280,from_country,country/26
+club/281,name,Twente
+club/281,from_country,country/34
+club/282,name,Morelia
+club/282,from_country,country/51
+club/283,name,Tijuana
+club/283,from_country,country/51
+club/284,name,Anderlecht
+club/284,from_country,country/25
+club/285,name,FC Augsburg
+club/285,from_country,country/28
+club/286,name,Udinese
+club/286,from_country,country/26
+club/287,name,Rica Cartaginés
+club/287,from_country,country/33
+club/288,name,Almería
+club/288,from_country,country/47
+club/289,name,Borussia Dortmund
+club/289,from_country,country/28
+club/290,name,Hamburger SV
+club/290,from_country,country/28
+club/291,name,Vålerenga
+club/291,from_country,country/49
+club/292,name,Manchester United
+club/292,from_country,country/3
+club/293,name,Rica Alajuelense
+club/293,from_country,country/48
+club/294,name,FSV Frankfurt
+club/294,from_country,country/28
+club/295,name,Brisbane Roar
+club/295,from_country,country/53
+club/296,name,Real Sociedad
+club/296,from_country,country/47
+club/297,name,Valencia
+club/297,from_country,country/47
+player/1,name,Jefferson
+player/1,age,31
+player/1,position,GK
+player/1,in_team,country/11
+player/1,team_presences,9
+player/1,in_club,club/187
+player/2,name,Dani Alves
+player/2,age,31
+player/2,position,DF
+player/2,in_team,country/11
+player/2,team_presences,74
+player/2,in_club,club/160
+player/3,name,Thiago Silva (c)
+player/3,age,29
+player/3,position,DF
+player/3,in_team,country/11
+player/3,team_presences,45
+player/3,in_club,club/197
+player/4,name,David Luiz
+player/4,age,27
+player/4,position,DF
+player/4,in_team,country/11
+player/4,team_presences,35
+player/4,in_club,club/238
+player/5,name,Fernandinho
+player/5,age,29
+player/5,position,MF
+player/5,in_team,country/11
+player/5,team_presences,6
+player/5,in_club,club/111
+player/6,name,Marcelo
+player/6,age,26
+player/6,position,DF
+player/6,in_team,country/11
+player/6,team_presences,30
+player/6,in_club,club/90
+player/7,name,Hulk
+player/7,age,27
+player/7,position,FW
+player/7,in_team,country/11
+player/7,team_presences,34
+player/7,in_club,club/109
+player/8,name,Paulinho
+player/8,age,25
+player/8,position,MF
+player/8,in_team,country/11
+player/8,team_presences,25
+player/8,in_club,club/243
+player/9,name,Fred
+player/9,age,30
+player/9,position,FW
+player/9,in_team,country/11
+player/9,team_presences,33
+player/9,in_club,club/82
+player/10,name,Neymar
+player/10,age,22
+player/10,position,FW
+player/10,in_team,country/11
+player/10,team_presences,48
+player/10,in_club,club/160
+player/11,name,Oscar
+player/11,age,22
+player/11,position,MF
+player/11,in_team,country/11
+player/11,team_presences,30
+player/11,in_club,club/238
+player/12,name,Júlio César
+player/12,age,34
+player/12,position,GK
+player/12,in_team,country/11
+player/12,team_presences,79
+player/12,in_club,club/177
+player/13,name,Dante
+player/13,age,30
+player/13,position,DF
+player/13,in_team,country/11
+player/13,team_presences,12
+player/13,in_club,club/207
+player/14,name,Maxwell
+player/14,age,32
+player/14,position,DF
+player/14,in_team,country/11
+player/14,team_presences,8
+player/14,in_club,club/197
+player/15,name,Henrique
+player/15,age,27
+player/15,position,DF
+player/15,in_team,country/11
+player/15,team_presences,5
+player/15,in_club,club/94
+player/16,name,Ramires
+player/16,age,27
+player/16,position,MF
+player/16,in_team,country/11
+player/16,team_presences,42
+player/16,in_club,club/238
+player/17,name,Luiz Gustavo
+player/17,age,26
+player/17,position,MF
+player/17,in_team,country/11
+player/17,team_presences,18
+player/17,in_club,club/81
+player/18,name,Hernanes
+player/18,age,29
+player/18,position,MF
+player/18,in_team,country/11
+player/18,team_presences,24
+player/18,in_club,club/268
+player/19,name,Willian
+player/19,age,25
+player/19,position,MF
+player/19,in_team,country/11
+player/19,team_presences,6
+player/19,in_club,club/238
+player/20,name,Bernard
+player/20,age,21
+player/20,position,MF
+player/20,in_team,country/11
+player/20,team_presences,10
+player/20,in_club,club/96
+player/21,name,Jô
+player/21,age,27
+player/21,position,FW
+player/21,in_team,country/11
+player/21,team_presences,16
+player/21,in_club,club/45
+player/22,name,Victor
+player/22,age,31
+player/22,position,GK
+player/22,in_team,country/11
+player/22,team_presences,6
+player/22,in_club,club/45
+player/23,name,Maicon
+player/23,age,32
+player/23,position,DF
+player/23,in_team,country/11
+player/23,team_presences,71
+player/23,in_club,club/83
+player/24,name,Samuel Eto'o (c)
+player/24,age,33
+player/24,position,FW
+player/24,in_team,country/1
+player/24,team_presences,116
+player/24,in_club,club/238
+player/25,name,Jean Makoun
+player/25,age,31
+player/25,position,MF
+player/25,in_team,country/1
+player/25,team_presences,66
+player/25,in_club,club/135
+player/26,name,Pierre Webó
+player/26,age,32
+player/26,position,FW
+player/26,in_team,country/1
+player/26,team_presences,55
+player/26,in_club,club/229
+player/27,name,Stéphane Mbia
+player/27,age,28
+player/27,position,MF
+player/27,in_team,country/1
+player/27,team_presences,49
+player/27,in_club,club/253
+player/28,name,Nicolas N'Koulou
+player/28,age,24
+player/28,position,DF
+player/28,in_team,country/1
+player/28,team_presences,47
+player/28,in_club,club/78
+player/29,name,Alex Song
+player/29,age,26
+player/29,position,MF
+player/29,in_team,country/1
+player/29,team_presences,46
+player/29,in_club,club/160
+player/30,name,Landry N'Guémo
+player/30,age,28
+player/30,position,MF
+player/30,in_team,country/1
+player/30,team_presences,39
+player/30,in_club,club/6
+player/31,name,Eyong Enoh
+player/31,age,28
+player/31,position,MF
+player/31,in_team,country/1
+player/31,team_presences,37
+player/31,in_club,club/91
+player/32,name,Henri Bedimo
+player/32,age,30
+player/32,position,DF
+player/32,in_team,country/1
+player/32,team_presences,30
+player/32,in_club,club/59
+player/33,name,Aurélien Chedjou
+player/33,age,28
+player/33,position,DF
+player/33,in_team,country/1
+player/33,team_presences,30
+player/33,in_club,club/118
+player/34,name,Maxim Choupo-Moting
+player/34,age,25
+player/34,position,FW
+player/34,in_team,country/1
+player/34,team_presences,26
+player/34,in_club,club/250
+player/35,name,Vincent Aboubakar
+player/35,age,22
+player/35,position,FW
+player/35,in_team,country/1
+player/35,team_presences,23
+player/35,in_club,club/249
+player/36,name,Joël Matip
+player/36,age,22
+player/36,position,MF
+player/36,in_team,country/1
+player/36,team_presences,22
+player/36,in_club,club/128
+player/37,name,Benoît Assou-Ekotto
+player/37,age,30
+player/37,position,DF
+player/37,in_team,country/1
+player/37,team_presences,21
+player/37,in_club,club/228
+player/38,name,Benjamin Moukandjo
+player/38,age,25
+player/38,position,FW
+player/38,in_team,country/1
+player/38,team_presences,16
+player/38,in_club,club/115
+player/39,name,Dany Nounkeu
+player/39,age,28
+player/39,position,DF
+player/39,in_team,country/1
+player/39,team_presences,15
+player/39,in_club,club/221
+player/40,name,Charles Itandje
+player/40,age,31
+player/40,position,GK
+player/40,in_team,country/1
+player/40,team_presences,9
+player/40,in_club,club/44
+player/41,name,Allan Nyom
+player/41,age,26
+player/41,position,DF
+player/41,in_team,country/1
+player/41,team_presences,8
+player/41,in_club,club/116
+player/42,name,Edgar Salli
+player/42,age,21
+player/42,position,MF
+player/42,in_team,country/1
+player/42,team_presences,8
+player/42,in_club,club/173
+player/43,name,Fabrice Olinga
+player/43,age,18
+player/43,position,FW
+player/43,in_team,country/1
+player/43,team_presences,7
+player/43,in_club,club/210
+player/44,name,Cédric Djeugoué
+player/44,age,21
+player/44,position,DF
+player/44,in_team,country/1
+player/44,team_presences,3
+player/44,in_club,club/85
+player/45,name,Sammy N'Djock
+player/45,age,24
+player/45,position,GK
+player/45,in_team,country/1
+player/45,team_presences,2
+player/45,in_club,club/61
+player/46,name,Loïc Feudjou
+player/46,age,22
+player/46,position,GK
+player/46,in_team,country/1
+player/46,team_presences,1
+player/46,in_club,club/85
+player/47,name,Stipe Pletikosa
+player/47,age,35
+player/47,position,GK
+player/47,in_team,country/43
+player/47,team_presences,110
+player/47,in_club,club/269
+player/48,name,Ante Rebić
+player/48,age,20
+player/48,position,FW
+player/48,in_team,country/43
+player/48,team_presences,4
+player/48,in_club,club/213
+player/49,name,Danijel Pranjić
+player/49,age,32
+player/49,position,DF
+player/49,in_team,country/43
+player/49,team_presences,48
+player/49,in_club,club/279
+player/50,name,Ivan Perišić
+player/50,age,25
+player/50,position,MF
+player/50,in_team,country/43
+player/50,team_presences,28
+player/50,in_club,club/81
+player/51,name,Vedran Ćorluka
+player/51,age,28
+player/51,position,DF
+player/51,in_team,country/43
+player/51,team_presences,72
+player/51,in_club,club/159
+player/52,name,Dejan Lovren
+player/52,age,24
+player/52,position,DF
+player/52,in_team,country/43
+player/52,team_presences,23
+player/52,in_club,club/65
+player/53,name,Ivan Rakitić
+player/53,age,26
+player/53,position,MF
+player/53,in_team,country/43
+player/53,team_presences,61
+player/53,in_club,club/253
+player/54,name,Ognjen Vukojević
+player/54,age,30
+player/54,position,MF
+player/54,in_team,country/43
+player/54,team_presences,55
+player/54,in_club,club/50
+player/55,name,Nikica Jelavić
+player/55,age,28
+player/55,position,FW
+player/55,in_team,country/43
+player/55,team_presences,33
+player/55,in_club,club/22
+player/56,name,Luka Modrić
+player/56,age,28
+player/56,position,MF
+player/56,in_team,country/43
+player/56,team_presences,74
+player/56,in_club,club/90
+player/57,name,Darijo Srna (c)
+player/57,age,32
+player/57,position,DF
+player/57,in_team,country/43
+player/57,team_presences,112
+player/57,in_club,club/96
+player/58,name,Danijel Subašić
+player/58,age,29
+player/58,position,GK
+player/58,in_team,country/43
+player/58,team_presences,6
+player/58,in_club,club/234
+player/59,name,Gordon Schildenfeld
+player/59,age,29
+player/59,position,DF
+player/59,in_team,country/43
+player/59,team_presences,21
+player/59,in_club,club/279
+player/60,name,Marcelo Brozović
+player/60,age,21
+player/60,position,MF
+player/60,in_team,country/43
+player/60,team_presences,0
+player/60,in_club,club/123
+player/61,name,Šime Vrsaljko
+player/61,age,22
+player/61,position,DF
+player/61,in_team,country/43
+player/61,team_presences,6
+player/61,in_club,club/155
+player/62,name,Ivan Močinić
+player/62,age,21
+player/62,position,MF
+player/62,in_team,country/43
+player/62,team_presences,0
+player/62,in_club,club/185
+player/63,name,Mario Mandžukić
+player/63,age,28
+player/63,position,FW
+player/63,in_team,country/43
+player/63,team_presences,49
+player/63,in_club,club/207
+player/64,name,Ivica Olić
+player/64,age,34
+player/64,position,FW
+player/64,in_team,country/43
+player/64,team_presences,91
+player/64,in_club,club/81
+player/65,name,Sammir
+player/65,age,27
+player/65,position,MF
+player/65,in_team,country/43
+player/65,team_presences,5
+player/65,in_club,club/147
+player/66,name,Mateo Kovačić
+player/66,age,20
+player/66,position,MF
+player/66,in_team,country/43
+player/66,team_presences,9
+player/66,in_club,club/268
+player/67,name,Domagoj Vida
+player/67,age,25
+player/67,position,DF
+player/67,in_team,country/43
+player/67,team_presences,23
+player/67,in_club,club/50
+player/68,name,Eduardo
+player/68,age,31
+player/68,position,FW
+player/68,in_team,country/43
+player/68,team_presences,63
+player/68,in_club,club/96
+player/69,name,Oliver Zelenika
+player/69,age,21
+player/69,position,GK
+player/69,in_team,country/43
+player/69,team_presences,0
+player/69,in_club,club/171
+player/70,name,José de Jesús Corona
+player/70,age,33
+player/70,position,GK
+player/70,in_team,country/51
+player/70,team_presences,33
+player/70,in_club,club/89
+player/71,name,Francisco Javier Rodríguez
+player/71,age,32
+player/71,position,DF
+player/71,in_team,country/51
+player/71,team_presences,94
+player/71,in_club,club/148
+player/72,name,Carlos Salcido
+player/72,age,34
+player/72,position,DF
+player/72,in_team,country/51
+player/72,team_presences,122
+player/72,in_club,club/204
+player/73,name,Rafael Márquez (c)
+player/73,age,35
+player/73,position,DF
+player/73,in_team,country/51
+player/73,team_presences,119
+player/73,in_club,club/151
+player/74,name,Diego Reyes
+player/74,age,21
+player/74,position,DF
+player/74,in_team,country/51
+player/74,team_presences,14
+player/74,in_club,club/208
+player/75,name,Héctor Herrera
+player/75,age,24
+player/75,position,MF
+player/75,in_team,country/51
+player/75,team_presences,12
+player/75,in_club,club/208
+player/76,name,Miguel Layún
+player/76,age,25
+player/76,position,DF
+player/76,in_team,country/51
+player/76,team_presences,14
+player/76,in_club,club/148
+player/77,name,Marco Fabián
+player/77,age,24
+player/77,position,MF
+player/77,in_team,country/51
+player/77,team_presences,14
+player/77,in_club,club/89
+player/78,name,Raúl Jiménez
+player/78,age,23
+player/78,position,FW
+player/78,in_team,country/51
+player/78,team_presences,25
+player/78,in_club,club/148
+player/79,name,Giovani dos Santos
+player/79,age,25
+player/79,position,FW
+player/79,in_team,country/51
+player/79,team_presences,75
+player/79,in_club,club/72
+player/80,name,Alan Pulido
+player/80,age,23
+player/80,position,FW
+player/80,in_team,country/51
+player/80,team_presences,5
+player/80,in_club,club/204
+player/81,name,Alfredo Talavera
+player/81,age,31
+player/81,position,GK
+player/81,in_team,country/51
+player/81,team_presences,14
+player/81,in_club,club/201
+player/82,name,Guillermo Ochoa
+player/82,age,28
+player/82,position,GK
+player/82,in_team,country/51
+player/82,team_presences,58
+player/82,in_club,club/55
+player/83,name,Javier Hernández
+player/83,age,26
+player/83,position,FW
+player/83,in_team,country/51
+player/83,team_presences,61
+player/83,in_club,club/292
+player/84,name,Héctor Moreno
+player/84,age,26
+player/84,position,DF
+player/84,in_team,country/51
+player/84,team_presences,52
+player/84,in_club,club/199
+player/85,name,Miguel Ángel Ponce
+player/85,age,25
+player/85,position,DF
+player/85,in_team,country/51
+player/85,team_presences,8
+player/85,in_club,club/201
+player/86,name,Isaác Brizuela
+player/86,age,23
+player/86,position,MF
+player/86,in_team,country/51
+player/86,team_presences,7
+player/86,in_club,club/201
+player/87,name,Andrés Guardado
+player/87,age,27
+player/87,position,DF
+player/87,in_team,country/51
+player/87,team_presences,103
+player/87,in_club,club/23
+player/88,name,Oribe Peralta
+player/88,age,30
+player/88,position,FW
+player/88,in_team,country/51
+player/88,team_presences,32
+player/88,in_club,club/237
+player/89,name,Javier Aquino
+player/89,age,24
+player/89,position,MF
+player/89,in_team,country/51
+player/89,team_presences,21
+player/89,in_club,club/72
+player/90,name,Carlos Peña
+player/90,age,24
+player/90,position,MF
+player/90,in_team,country/51
+player/90,team_presences,16
+player/90,in_club,club/151
+player/91,name,Paul Aguilar
+player/91,age,28
+player/91,position,DF
+player/91,in_team,country/51
+player/91,team_presences,29
+player/91,in_club,club/148
+player/92,name,José Juan Vázquez
+player/92,age,26
+player/92,position,MF
+player/92,in_team,country/51
+player/92,team_presences,4
+player/92,in_club,club/151
+player/93,name,Mathew Ryan
+player/93,age,22
+player/93,position,GK
+player/93,in_team,country/53
+player/93,team_presences,6
+player/93,in_club,club/271
+player/94,name,Ivan Franjić
+player/94,age,26
+player/94,position,DF
+player/94,in_team,country/53
+player/94,team_presences,8
+player/94,in_club,club/295
+player/95,name,Jason Davidson
+player/95,age,22
+player/95,position,DF
+player/95,in_team,country/53
+player/95,team_presences,6
+player/95,in_club,club/79
+player/96,name,Tim Cahill
+player/96,age,34
+player/96,position,FW
+player/96,in_team,country/53
+player/96,team_presences,68
+player/96,in_club,club/257
+player/97,name,Mark Milligan
+player/97,age,28
+player/97,position,MF
+player/97,in_team,country/53
+player/97,team_presences,28
+player/97,in_club,club/97
+player/98,name,Matthew Špiranović
+player/98,age,25
+player/98,position,DF
+player/98,in_team,country/53
+player/98,team_presences,17
+player/98,in_club,club/84
+player/99,name,Mathew Leckie
+player/99,age,23
+player/99,position,FW
+player/99,in_team,country/53
+player/99,team_presences,7
+player/99,in_club,club/294
+player/100,name,Oliver Bozanić
+player/100,age,25
+player/100,position,MF
+player/100,in_team,country/53
+player/100,team_presences,3
+player/100,in_club,club/226
+player/101,name,Adam Taggart
+player/101,age,21
+player/101,position,FW
+player/101,in_team,country/53
+player/101,team_presences,4
+player/101,in_club,club/77
+player/102,name,Tommy Oar
+player/102,age,22
+player/102,position,MF
+player/102,in_team,country/53
+player/102,team_presences,14
+player/102,in_club,club/125
+player/103,name,James Troisi
+player/103,age,25
+player/103,position,MF
+player/103,in_team,country/53
+player/103,team_presences,10
+player/103,in_club,club/37
+player/104,name,Mitchell Langerak
+player/104,age,25
+player/104,position,GK
+player/104,in_team,country/53
+player/104,team_presences,3
+player/104,in_club,club/289
+player/105,name,Bailey Wright
+player/105,age,21
+player/105,position,DF
+player/105,in_team,country/53
+player/105,team_presences,0
+player/105,in_club,club/134
+player/106,name,Ben Halloran
+player/106,age,21
+player/106,position,MF
+player/106,in_team,country/53
+player/106,team_presences,1
+player/106,in_club,club/114
+player/107,name,Mile Jedinak (c)
+player/107,age,29
+player/107,position,MF
+player/107,in_team,country/53
+player/107,team_presences,43
+player/107,in_club,club/46
+player/108,name,James Holland
+player/108,age,25
+player/108,position,MF
+player/108,in_team,country/53
+player/108,team_presences,13
+player/108,in_club,club/272
+player/109,name,Matt McKay
+player/109,age,31
+player/109,position,MF
+player/109,in_team,country/53
+player/109,team_presences,46
+player/109,in_club,club/295
+player/110,name,Eugene Galeković
+player/110,age,33
+player/110,position,GK
+player/110,in_team,country/53
+player/110,team_presences,8
+player/110,in_club,club/194
+player/111,name,Ryan McGowan
+player/111,age,24
+player/111,position,DF
+player/111,in_team,country/53
+player/111,team_presences,9
+player/111,in_club,club/235
+player/112,name,Dario Vidošić
+player/112,age,27
+player/112,position,MF
+player/112,in_team,country/53
+player/112,team_presences,22
+player/112,in_club,club/137
+player/113,name,Massimo Luongo
+player/113,age,21
+player/113,position,MF
+player/113,in_team,country/53
+player/113,team_presences,1
+player/113,in_club,club/119
+player/114,name,Alex Wilkinson
+player/114,age,29
+player/114,position,DF
+player/114,in_team,country/53
+player/114,team_presences,2
+player/114,in_club,club/2
+player/115,name,Mark Bresciano
+player/115,age,34
+player/115,position,MF
+player/115,in_team,country/53
+player/115,team_presences,73
+player/115,in_club,club/264
+player/116,name,Claudio Bravo (c)
+player/116,age,31
+player/116,position,GK
+player/116,in_team,country/13
+player/116,team_presences,79
+player/116,in_club,club/296
+player/117,name,Eugenio Mena
+player/117,age,25
+player/117,position,DF
+player/117,in_team,country/13
+player/117,team_presences,24
+player/117,in_club,club/99
+player/118,name,Miiko Albornoz
+player/118,age,23
+player/118,position,DF
+player/118,in_team,country/13
+player/118,team_presences,2
+player/118,in_club,club/205
+player/119,name,Mauricio Isla
+player/119,age,26
+player/119,position,MF
+player/119,in_team,country/13
+player/119,team_presences,46
+player/119,in_club,club/43
+player/120,name,Francisco Silva
+player/120,age,28
+player/120,position,MF
+player/120,in_team,country/13
+player/120,team_presences,11
+player/120,in_club,club/162
+player/121,name,Carlos Carmona
+player/121,age,27
+player/121,position,MF
+player/121,in_team,country/13
+player/121,team_presences,43
+player/121,in_club,club/37
+player/122,name,Alexis Sánchez
+player/122,age,25
+player/122,position,FW
+player/122,in_team,country/13
+player/122,team_presences,66
+player/122,in_club,club/160
+player/123,name,Arturo Vidal
+player/123,age,27
+player/123,position,MF
+player/123,in_team,country/13
+player/123,team_presences,53
+player/123,in_club,club/43
+player/124,name,Mauricio Pinilla
+player/124,age,30
+player/124,position,FW
+player/124,in_team,country/13
+player/124,team_presences,26
+player/124,in_club,club/88
+player/125,name,Jorge Valdívia
+player/125,age,30
+player/125,position,MF
+player/125,in_team,country/13
+player/125,team_presences,56
+player/125,in_club,club/67
+player/126,name,Eduardo Vargas
+player/126,age,24
+player/126,position,FW
+player/126,in_team,country/13
+player/126,team_presences,29
+player/126,in_club,club/297
+player/127,name,Cristopher Toselli
+player/127,age,25
+player/127,position,GK
+player/127,in_team,country/13
+player/127,team_presences,4
+player/127,in_club,club/261
+player/128,name,José Rojas
+player/128,age,31
+player/128,position,DF
+player/128,in_team,country/13
+player/128,team_presences,18
+player/128,in_club,club/181
+player/129,name,Fabián Orellana
+player/129,age,28
+player/129,position,FW
+player/129,in_team,country/13
+player/129,team_presences,25
+player/129,in_club,club/241
+player/130,name,Jean Beausejour
+player/130,age,30
+player/130,position,MF
+player/130,in_team,country/13
+player/130,team_presences,59
+player/130,in_club,club/251
+player/131,name,Felipe Gutiérrez
+player/131,age,23
+player/131,position,MF
+player/131,in_team,country/13
+player/131,team_presences,17
+player/131,in_club,club/281
+player/132,name,Gary Medel
+player/132,age,26
+player/132,position,DF
+player/132,in_team,country/13
+player/132,team_presences,60
+player/132,in_club,club/149
+player/133,name,Gonzalo Jara
+player/133,age,28
+player/133,position,DF
+player/133,in_team,country/13
+player/133,team_presences,65
+player/133,in_club,club/154
+player/134,name,José Pedro Fuenzalida
+player/134,age,29
+player/134,position,MF
+player/134,in_team,country/13
+player/134,team_presences,23
+player/134,in_club,club/103
+player/135,name,Charles Aránguiz
+player/135,age,25
+player/135,position,MF
+player/135,in_team,country/13
+player/135,team_presences,20
+player/135,in_club,club/62
+player/136,name,Marcelo Díaz
+player/136,age,27
+player/136,position,MF
+player/136,in_team,country/13
+player/136,team_presences,20
+player/136,in_club,club/48
+player/137,name,Esteban Paredes
+player/137,age,33
+player/137,position,FW
+player/137,in_team,country/13
+player/137,team_presences,34
+player/137,in_club,club/103
+player/138,name,Johnny Herrera
+player/138,age,33
+player/138,position,GK
+player/138,in_team,country/13
+player/138,team_presences,7
+player/138,in_club,club/181
+player/139,name,Jasper Cillessen
+player/139,age,25
+player/139,position,GK
+player/139,in_team,country/34
+player/139,team_presences,7
+player/139,in_club,club/53
+player/140,name,Ron Vlaar
+player/140,age,29
+player/140,position,DF
+player/140,in_team,country/34
+player/140,team_presences,23
+player/140,in_club,club/163
+player/141,name,Stefan de Vrij
+player/141,age,22
+player/141,position,DF
+player/141,in_team,country/34
+player/141,team_presences,11
+player/141,in_club,club/263
+player/142,name,Bruno Martins Indi
+player/142,age,22
+player/142,position,DF
+player/142,in_team,country/34
+player/142,team_presences,15
+player/142,in_club,club/263
+player/143,name,Daley Blind
+player/143,age,24
+player/143,position,DF
+player/143,in_team,country/34
+player/143,team_presences,11
+player/143,in_club,club/53
+player/144,name,Jonathan de Guzmán
+player/144,age,26
+player/144,position,MF
+player/144,in_team,country/34
+player/144,team_presences,10
+player/144,in_club,club/276
+player/145,name,Daryl Janmaat
+player/145,age,24
+player/145,position,DF
+player/145,in_team,country/34
+player/145,team_presences,15
+player/145,in_club,club/263
+player/146,name,Nigel de Jong
+player/146,age,29
+player/146,position,MF
+player/146,in_team,country/34
+player/146,team_presences,70
+player/146,in_club,club/30
+player/147,name,Robin van Persie (c)
+player/147,age,30
+player/147,position,FW
+player/147,in_team,country/34
+player/147,team_presences,84
+player/147,in_club,club/292
+player/148,name,Wesley Sneijder
+player/148,age,30
+player/148,position,MF
+player/148,in_team,country/34
+player/148,team_presences,98
+player/148,in_club,club/118
+player/149,name,Arjen Robben
+player/149,age,30
+player/149,position,FW
+player/149,in_team,country/34
+player/149,team_presences,74
+player/149,in_club,club/207
+player/150,name,Paul Verhaegh
+player/150,age,30
+player/150,position,DF
+player/150,in_team,country/34
+player/150,team_presences,2
+player/150,in_club,club/285
+player/151,name,Joël Veltman
+player/151,age,22
+player/151,position,DF
+player/151,in_team,country/34
+player/151,team_presences,2
+player/151,in_club,club/53
+player/152,name,Terence Kongolo
+player/152,age,20
+player/152,position,DF
+player/152,in_team,country/34
+player/152,team_presences,1
+player/152,in_club,club/263
+player/153,name,Dirk Kuyt
+player/153,age,33
+player/153,position,FW
+player/153,in_team,country/34
+player/153,team_presences,98
+player/153,in_club,club/229
+player/154,name,Jordy Clasie
+player/154,age,22
+player/154,position,MF
+player/154,in_team,country/34
+player/154,team_presences,8
+player/154,in_club,club/263
+player/155,name,Jeremain Lens
+player/155,age,26
+player/155,position,FW
+player/155,in_team,country/34
+player/155,team_presences,21
+player/155,in_club,club/50
+player/156,name,Leroy Fer
+player/156,age,24
+player/156,position,MF
+player/156,in_team,country/34
+player/156,team_presences,5
+player/156,in_club,club/41
+player/157,name,Klaas-Jan Huntelaar
+player/157,age,30
+player/157,position,FW
+player/157,in_team,country/34
+player/157,team_presences,61
+player/157,in_club,club/128
+player/158,name,Georginio Wijnaldum
+player/158,age,23
+player/158,position,MF
+player/158,in_team,country/34
+player/158,team_presences,4
+player/158,in_club,club/12
+player/159,name,Memphis Depay
+player/159,age,20
+player/159,position,MF
+player/159,in_team,country/34
+player/159,team_presences,6
+player/159,in_club,club/12
+player/160,name,Michel Vorm
+player/160,age,30
+player/160,position,GK
+player/160,in_team,country/34
+player/160,team_presences,14
+player/160,in_club,club/276
+player/161,name,Tim Krul
+player/161,age,26
+player/161,position,GK
+player/161,in_team,country/34
+player/161,team_presences,5
+player/161,in_club,club/10
+player/162,name,Iker Casillas (c)
+player/162,age,33
+player/162,position,GK
+player/162,in_team,country/47
+player/162,team_presences,153
+player/162,in_club,club/90
+player/163,name,Raúl Albiol
+player/163,age,28
+player/163,position,DF
+player/163,in_team,country/47
+player/163,team_presences,46
+player/163,in_club,club/94
+player/164,name,Gerard Piqué
+player/164,age,27
+player/164,position,DF
+player/164,in_team,country/47
+player/164,team_presences,60
+player/164,in_club,club/160
+player/165,name,Javi Martínez
+player/165,age,25
+player/165,position,MF
+player/165,in_team,country/47
+player/165,team_presences,16
+player/165,in_club,club/207
+player/166,name,Juanfran
+player/166,age,29
+player/166,position,DF
+player/166,in_team,country/47
+player/166,team_presences,6
+player/166,in_club,club/14
+player/167,name,Andrés Iniesta
+player/167,age,30
+player/167,position,MF
+player/167,in_team,country/47
+player/167,team_presences,95
+player/167,in_club,club/160
+player/168,name,David Villa
+player/168,age,32
+player/168,position,FW
+player/168,in_team,country/47
+player/168,team_presences,94
+player/168,in_club,club/14
+player/169,name,Xavi
+player/169,age,34
+player/169,position,MF
+player/169,in_team,country/47
+player/169,team_presences,131
+player/169,in_club,club/160
+player/170,name,Fernando Torres
+player/170,age,30
+player/170,position,FW
+player/170,in_team,country/47
+player/170,team_presences,107
+player/170,in_club,club/238
+player/171,name,Cesc Fàbregas
+player/171,age,27
+player/171,position,MF
+player/171,in_team,country/47
+player/171,team_presences,88
+player/171,in_club,club/160
+player/172,name,Pedro
+player/172,age,26
+player/172,position,FW
+player/172,in_team,country/47
+player/172,team_presences,38
+player/172,in_club,club/160
+player/173,name,David de Gea
+player/173,age,23
+player/173,position,GK
+player/173,in_team,country/47
+player/173,team_presences,0
+player/173,in_club,club/292
+player/174,name,Juan Mata
+player/174,age,26
+player/174,position,MF
+player/174,in_team,country/47
+player/174,team_presences,32
+player/174,in_club,club/292
+player/175,name,Xabi Alonso
+player/175,age,32
+player/175,position,MF
+player/175,in_team,country/47
+player/175,team_presences,109
+player/175,in_club,club/90
+player/176,name,Sergio Ramos
+player/176,age,28
+player/176,position,DF
+player/176,in_team,country/47
+player/176,team_presences,115
+player/176,in_club,club/90
+player/177,name,Sergio Busquets
+player/177,age,25
+player/177,position,MF
+player/177,in_team,country/47
+player/177,team_presences,64
+player/177,in_club,club/160
+player/178,name,Koke
+player/178,age,22
+player/178,position,MF
+player/178,in_team,country/47
+player/178,team_presences,7
+player/178,in_club,club/14
+player/179,name,Jordi Alba
+player/179,age,25
+player/179,position,DF
+player/179,in_team,country/47
+player/179,team_presences,25
+player/179,in_club,club/160
+player/180,name,Diego Costa
+player/180,age,25
+player/180,position,FW
+player/180,in_team,country/47
+player/180,team_presences,1
+player/180,in_club,club/14
+player/181,name,Santi Cazorla
+player/181,age,29
+player/181,position,MF
+player/181,in_team,country/47
+player/181,team_presences,62
+player/181,in_club,club/51
+player/182,name,David Silva
+player/182,age,28
+player/182,position,MF
+player/182,in_team,country/47
+player/182,team_presences,79
+player/182,in_club,club/111
+player/183,name,César Azpilicueta
+player/183,age,24
+player/183,position,DF
+player/183,in_team,country/47
+player/183,team_presences,6
+player/183,in_club,club/238
+player/184,name,Pepe Reina
+player/184,age,31
+player/184,position,GK
+player/184,in_team,country/47
+player/184,team_presences,31
+player/184,in_club,club/94
+player/185,name,Didier Zokora
+player/185,age,33
+player/185,position,DF
+player/185,in_team,country/31
+player/185,team_presences,119
+player/185,in_club,club/217
+player/186,name,Kolo Touré
+player/186,age,33
+player/186,position,DF
+player/186,in_team,country/31
+player/186,team_presences,106
+player/186,in_club,club/87
+player/187,name,Didier Drogba (c)
+player/187,age,36
+player/187,position,FW
+player/187,in_team,country/31
+player/187,team_presences,100
+player/187,in_club,club/118
+player/188,name,Yaya Touré
+player/188,age,31
+player/188,position,MF
+player/188,in_team,country/31
+player/188,team_presences,83
+player/188,in_club,club/111
+player/189,name,Arthur Boka
+player/189,age,31
+player/189,position,DF
+player/189,in_team,country/31
+player/189,team_presences,79
+player/189,in_club,club/275
+player/190,name,Boubacar Barry
+player/190,age,34
+player/190,position,GK
+player/190,in_team,country/31
+player/190,team_presences,79
+player/190,in_club,club/129
+player/191,name,Salomon Kalou
+player/191,age,28
+player/191,position,FW
+player/191,in_team,country/31
+player/191,team_presences,64
+player/191,in_club,club/39
+player/192,name,Gervinho
+player/192,age,27
+player/192,position,FW
+player/192,in_team,country/31
+player/192,team_presences,53
+player/192,in_club,club/83
+player/193,name,Cheick Tioté
+player/193,age,27
+player/193,position,MF
+player/193,in_team,country/31
+player/193,team_presences,44
+player/193,in_club,club/10
+player/194,name,Sol Bamba
+player/194,age,29
+player/194,position,DF
+player/194,in_team,country/31
+player/194,team_presences,43
+player/194,in_club,club/217
+player/195,name,Didier Ya Konan
+player/195,age,30
+player/195,position,MF
+player/195,in_team,country/31
+player/195,team_presences,25
+player/195,in_club,club/63
+player/196,name,Max Gradel
+player/196,age,26
+player/196,position,FW
+player/196,in_team,country/31
+player/196,team_presences,25
+player/196,in_club,club/212
+player/197,name,Wilfried Bony
+player/197,age,25
+player/197,position,FW
+player/197,in_team,country/31
+player/197,team_presences,24
+player/197,in_club,club/276
+player/198,name,Serge Aurier
+player/198,age,21
+player/198,position,DF
+player/198,in_team,country/31
+player/198,team_presences,8
+player/198,in_club,club/248
+player/199,name,Giovanni Sio
+player/199,age,25
+player/199,position,FW
+player/199,in_team,country/31
+player/199,team_presences,7
+player/199,in_club,club/48
+player/200,name,Serey Die
+player/200,age,29
+player/200,position,MF
+player/200,in_team,country/31
+player/200,team_presences,6
+player/200,in_club,club/48
+player/201,name,Constant Djakpa
+player/201,age,27
+player/201,position,DF
+player/201,in_team,country/31
+player/201,team_presences,4
+player/201,in_club,club/113
+player/202,name,Mathis Bolly
+player/202,age,23
+player/202,position,FW
+player/202,in_team,country/31
+player/202,team_presences,3
+player/202,in_club,club/114
+player/203,name,Ousmane Viera
+player/203,age,27
+player/203,position,DF
+player/203,in_team,country/31
+player/203,team_presences,3
+player/203,in_club,club/184
+player/204,name,Sayouba Mandé
+player/204,age,21
+player/204,position,GK
+player/204,in_team,country/31
+player/204,team_presences,1
+player/204,in_club,club/16
+player/205,name,Ismaël Diomandé
+player/205,age,21
+player/205,position,MF
+player/205,in_team,country/31
+player/205,team_presences,1
+player/205,in_club,club/212
+player/206,name,Jean-Daniel Akpa-Akpro
+player/206,age,21
+player/206,position,DF
+player/206,in_team,country/31
+player/206,team_presences,1
+player/206,in_club,club/248
+player/207,name,Sylvain Gbohouo
+player/207,age,25
+player/207,position,GK
+player/207,in_team,country/31
+player/207,team_presences,1
+player/207,in_club,club/156
+player/208,name,Orestis Karnezis
+player/208,age,28
+player/208,position,GK
+player/208,in_team,country/6
+player/208,team_presences,18
+player/208,in_club,club/116
+player/209,name,Giannis Maniatis
+player/209,age,27
+player/209,position,DF
+player/209,in_team,country/6
+player/209,team_presences,29
+player/209,in_club,club/4
+player/210,name,Giorgos Tzavellas
+player/210,age,26
+player/210,position,DF
+player/210,in_team,country/6
+player/210,team_presences,13
+player/210,in_club,club/246
+player/211,name,Kostas Manolas
+player/211,age,22
+player/211,position,DF
+player/211,in_team,country/6
+player/211,team_presences,8
+player/211,in_club,club/4
+player/212,name,Vangelis Moras
+player/212,age,32
+player/212,position,DF
+player/212,in_team,country/6
+player/212,team_presences,18
+player/212,in_club,club/215
+player/213,name,Alexandros Tziolis
+player/213,age,29
+player/213,position,MF
+player/213,in_team,country/6
+player/213,team_presences,49
+player/213,in_club,club/273
+player/214,name,Giorgos Samaras
+player/214,age,29
+player/214,position,FW
+player/214,in_team,country/6
+player/214,team_presences,73
+player/214,in_club,club/29
+player/215,name,Panagiotis Kone
+player/215,age,26
+player/215,position,MF
+player/215,in_team,country/6
+player/215,team_presences,15
+player/215,in_club,club/179
+player/216,name,Kostas Mitroglou
+player/216,age,26
+player/216,position,FW
+player/216,in_team,country/6
+player/216,team_presences,31
+player/216,in_club,club/3
+player/217,name,Giorgos Karagounis (c)
+player/217,age,37
+player/217,position,MF
+player/217,in_team,country/6
+player/217,team_presences,134
+player/217,in_club,club/3
+player/218,name,Loukas Vyntra
+player/218,age,33
+player/218,position,DF
+player/218,in_team,country/6
+player/218,team_presences,49
+player/218,in_club,club/220
+player/219,name,Panagiotis Glykos
+player/219,age,28
+player/219,position,GK
+player/219,in_team,country/6
+player/219,team_presences,2
+player/219,in_club,club/246
+player/220,name,Stefanos Kapino
+player/220,age,20
+player/220,position,GK
+player/220,in_team,country/6
+player/220,team_presences,2
+player/220,in_club,club/279
+player/221,name,Dimitris Salpingidis
+player/221,age,32
+player/221,position,FW
+player/221,in_team,country/6
+player/221,team_presences,75
+player/221,in_club,club/246
+player/222,name,Vasilis Torosidis
+player/222,age,29
+player/222,position,DF
+player/222,in_team,country/6
+player/222,team_presences,65
+player/222,in_club,club/83
+player/223,name,Lazaros Christodoulopoulos
+player/223,age,27
+player/223,position,MF
+player/223,in_team,country/6
+player/223,team_presences,18
+player/223,in_club,club/179
+player/224,name,Theofanis Gekas
+player/224,age,34
+player/224,position,FW
+player/224,in_team,country/6
+player/224,team_presences,71
+player/224,in_club,club/44
+player/225,name,Giannis Fetfatzidis
+player/225,age,23
+player/225,position,MF
+player/225,in_team,country/6
+player/225,team_presences,18
+player/225,in_club,club/155
+player/226,name,Sokratis Papastathopoulos
+player/226,age,26
+player/226,position,DF
+player/226,in_team,country/6
+player/226,team_presences,47
+player/226,in_club,club/289
+player/227,name,José Holebas
+player/227,age,29
+player/227,position,DF
+player/227,in_team,country/6
+player/227,team_presences,21
+player/227,in_club,club/4
+player/228,name,Kostas Katsouranis
+player/228,age,34
+player/228,position,MF
+player/228,in_team,country/6
+player/228,team_presences,110
+player/228,in_club,club/246
+player/229,name,Andreas Samaris
+player/229,age,24
+player/229,position,MF
+player/229,in_team,country/6
+player/229,team_presences,4
+player/229,in_club,club/4
+player/230,name,Panagiotis Tachtsidis
+player/230,age,23
+player/230,position,MF
+player/230,in_team,country/6
+player/230,team_presences,5
+player/230,in_club,club/145
+player/231,name,Eiji Kawashima
+player/231,age,31
+player/231,position,GK
+player/231,in_team,country/18
+player/231,team_presences,56
+player/231,in_club,club/95
+player/232,name,Atsuto Uchida
+player/232,age,26
+player/232,position,DF
+player/232,in_team,country/18
+player/232,team_presences,67
+player/232,in_club,club/128
+player/233,name,Gōtoku Sakai
+player/233,age,23
+player/233,position,DF
+player/233,in_team,country/18
+player/233,team_presences,12
+player/233,in_club,club/275
+player/234,name,Keisuke Honda
+player/234,age,27
+player/234,position,MF
+player/234,in_team,country/18
+player/234,team_presences,55
+player/234,in_club,club/30
+player/235,name,Yuto Nagatomo
+player/235,age,27
+player/235,position,DF
+player/235,in_team,country/18
+player/235,team_presences,69
+player/235,in_club,club/268
+player/236,name,Masato Morishige
+player/236,age,27
+player/236,position,DF
+player/236,in_team,country/18
+player/236,team_presences,9
+player/236,in_club,club/258
+player/237,name,Yasuhito Endō
+player/237,age,34
+player/237,position,MF
+player/237,in_team,country/18
+player/237,team_presences,143
+player/237,in_club,club/216
+player/238,name,Hiroshi Kiyotake
+player/238,age,24
+player/238,position,MF
+player/238,in_team,country/18
+player/238,team_presences,25
+player/238,in_club,club/278
+player/239,name,Shinji Okazaki
+player/239,age,28
+player/239,position,FW
+player/239,in_team,country/18
+player/239,team_presences,75
+player/239,in_club,club/250
+player/240,name,Shinji Kagawa
+player/240,age,25
+player/240,position,MF
+player/240,in_team,country/18
+player/240,team_presences,56
+player/240,in_club,club/292
+player/241,name,Yoichiro Kakitani
+player/241,age,24
+player/241,position,FW
+player/241,in_team,country/18
+player/241,team_presences,11
+player/241,in_club,club/112
+player/242,name,Shusaku Nishikawa
+player/242,age,27
+player/242,position,GK
+player/242,in_team,country/18
+player/242,team_presences,12
+player/242,in_club,club/214
+player/243,name,Yoshito Ōkubo
+player/243,age,32
+player/243,position,FW
+player/243,in_team,country/18
+player/243,team_presences,56
+player/243,in_club,club/124
+player/244,name,Toshihiro Aoyama
+player/244,age,28
+player/244,position,MF
+player/244,in_team,country/18
+player/244,team_presences,5
+player/244,in_club,club/69
+player/245,name,Yasuyuki Konno
+player/245,age,31
+player/245,position,DF
+player/245,in_team,country/18
+player/245,team_presences,80
+player/245,in_club,club/216
+player/246,name,Hotaru Yamaguchi
+player/246,age,23
+player/246,position,MF
+player/246,in_team,country/18
+player/246,team_presences,11
+player/246,in_club,club/112
+player/247,name,Makoto Hasebe (c)
+player/247,age,30
+player/247,position,MF
+player/247,in_team,country/18
+player/247,team_presences,78
+player/247,in_club,club/278
+player/248,name,Yuya Osako
+player/248,age,24
+player/248,position,FW
+player/248,in_team,country/18
+player/248,team_presences,8
+player/248,in_club,club/186
+player/249,name,Masahiko Inoha
+player/249,age,30
+player/249,position,DF
+player/249,in_team,country/18
+player/249,team_presences,21
+player/249,in_club,club/167
+player/250,name,Manabu Saitō
+player/250,age,24
+player/250,position,FW
+player/250,in_team,country/18
+player/250,team_presences,4
+player/250,in_club,club/98
+player/251,name,Hiroki Sakai
+player/251,age,24
+player/251,position,DF
+player/251,in_team,country/18
+player/251,team_presences,17
+player/251,in_club,club/63
+player/252,name,Maya Yoshida
+player/252,age,25
+player/252,position,DF
+player/252,in_team,country/18
+player/252,team_presences,40
+player/252,in_club,club/65
+player/253,name,Shūichi Gonda
+player/253,age,25
+player/253,position,GK
+player/253,in_team,country/18
+player/253,team_presences,2
+player/253,in_club,club/258
+player/254,name,David Ospina
+player/254,age,25
+player/254,position,GK
+player/254,in_team,country/14
+player/254,team_presences,42
+player/254,in_club,club/193
+player/255,name,Cristián Zapata
+player/255,age,27
+player/255,position,DF
+player/255,in_team,country/14
+player/255,team_presences,21
+player/255,in_club,club/30
+player/256,name,Mario Yepes (c)
+player/256,age,38
+player/256,position,DF
+player/256,in_team,country/14
+player/256,team_presences,96
+player/256,in_club,club/37
+player/257,name,Juan Guillermo Cuadrado
+player/257,age,26
+player/257,position,MF
+player/257,in_team,country/14
+player/257,team_presences,26
+player/257,in_club,club/213
+player/258,name,Aldo Leão Ramírez
+player/258,age,33
+player/258,position,MF
+player/258,in_team,country/14
+player/258,team_presences,29
+player/258,in_club,club/283
+player/259,name,Carlos Sánchez
+player/259,age,28
+player/259,position,MF
+player/259,in_team,country/14
+player/259,team_presences,44
+player/259,in_club,club/222
+player/260,name,Pablo Armero
+player/260,age,27
+player/260,position,DF
+player/260,in_team,country/14
+player/260,team_presences,51
+player/260,in_club,club/131
+player/261,name,Abel Aguilar
+player/261,age,29
+player/261,position,MF
+player/261,in_team,country/14
+player/261,team_presences,48
+player/261,in_club,club/248
+player/262,name,Jackson Martínez
+player/262,age,27
+player/262,position,FW
+player/262,in_team,country/14
+player/262,team_presences,27
+player/262,in_club,club/208
+player/263,name,James Rodríguez
+player/263,age,22
+player/263,position,MF
+player/263,in_team,country/14
+player/263,team_presences,21
+player/263,in_club,club/234
+player/264,name,Juan Fernando Quintero
+player/264,age,21
+player/264,position,MF
+player/264,in_team,country/14
+player/264,team_presences,4
+player/264,in_club,club/208
+player/265,name,Camilo Vargas
+player/265,age,24
+player/265,position,GK
+player/265,in_team,country/14
+player/265,team_presences,0
+player/265,in_club,club/26
+player/266,name,Fredy Guarín
+player/266,age,27
+player/266,position,MF
+player/266,in_team,country/14
+player/266,team_presences,48
+player/266,in_club,club/268
+player/267,name,Éder Álvarez Balanta
+player/267,age,21
+player/267,position,DF
+player/267,in_team,country/14
+player/267,team_presences,2
+player/267,in_club,club/255
+player/268,name,Alexander Mejía
+player/268,age,25
+player/268,position,MF
+player/268,in_team,country/14
+player/268,team_presences,9
+player/268,in_club,club/24
+player/269,name,Víctor Ibarbo
+player/269,age,24
+player/269,position,MF
+player/269,in_team,country/14
+player/269,team_presences,8
+player/269,in_club,club/88
+player/270,name,Santiago Arias
+player/270,age,22
+player/270,position,DF
+player/270,in_team,country/14
+player/270,team_presences,5
+player/270,in_club,club/12
+player/271,name,Juan Camilo Zúñiga
+player/271,age,28
+player/271,position,DF
+player/271,in_team,country/14
+player/271,team_presences,52
+player/271,in_club,club/94
+player/272,name,Teófilo Gutiérrez
+player/272,age,29
+player/272,position,FW
+player/272,in_team,country/14
+player/272,team_presences,29
+player/272,in_club,club/255
+player/273,name,Adrián Ramos
+player/273,age,28
+player/273,position,FW
+player/273,in_team,country/14
+player/273,team_presences,24
+player/273,in_club,club/49
+player/274,name,Carlos Bacca
+player/274,age,27
+player/274,position,FW
+player/274,in_team,country/14
+player/274,team_presences,10
+player/274,in_club,club/253
+player/275,name,Faryd Mondragón
+player/275,age,42
+player/275,position,GK
+player/275,in_team,country/14
+player/275,team_presences,55
+player/275,in_club,club/54
+player/276,name,Carlos Valdés
+player/276,age,29
+player/276,position,DF
+player/276,in_team,country/14
+player/276,team_presences,13
+player/276,in_club,club/166
+player/277,name,Michael Umaña
+player/277,age,31
+player/277,position,DF
+player/277,in_team,country/33
+player/277,team_presences,82
+player/277,in_club,club/262
+player/278,name,Celso Borges
+player/278,age,26
+player/278,position,MF
+player/278,in_team,country/33
+player/278,team_presences,62
+player/278,in_club,club/161
+player/279,name,Bryan Ruiz (c)
+player/279,age,28
+player/279,position,FW
+player/279,in_team,country/33
+player/279,team_presences,62
+player/279,in_club,club/12
+player/280,name,Júnior Díaz
+player/280,age,30
+player/280,position,DF
+player/280,in_team,country/33
+player/280,team_presences,61
+player/280,in_club,club/250
+player/281,name,Christian Bolaños
+player/281,age,30
+player/281,position,MF
+player/281,in_team,country/33
+player/281,team_presences,54
+player/281,in_club,club/152
+player/282,name,Keylor Navas
+player/282,age,27
+player/282,position,GK
+player/282,in_team,country/33
+player/282,team_presences,52
+player/282,in_club,club/220
+player/283,name,Michael Barrantes
+player/283,age,30
+player/283,position,MF
+player/283,in_team,country/33
+player/283,team_presences,50
+player/283,in_club,club/245
+player/284,name,Roy Miller
+player/284,age,29
+player/284,position,DF
+player/284,in_team,country/33
+player/284,team_presences,48
+player/284,in_club,club/257
+player/285,name,Randall Brenes
+player/285,age,30
+player/285,position,FW
+player/285,in_team,country/33
+player/285,team_presences,38
+player/285,in_club,club/287
+player/286,name,Giancarlo González
+player/286,age,26
+player/286,position,DF
+player/286,in_team,country/33
+player/286,team_presences,34
+player/286,in_club,club/15
+player/287,name,José Miguel Cubero
+player/287,age,27
+player/287,position,MF
+player/287,in_team,country/33
+player/287,team_presences,34
+player/287,in_club,club/36
+player/288,name,Joel Campbell
+player/288,age,21
+player/288,position,FW
+player/288,in_team,country/33
+player/288,team_presences,32
+player/288,in_club,club/4
+player/289,name,Johnny Acosta
+player/289,age,30
+player/289,position,DF
+player/289,in_team,country/33
+player/289,team_presences,25
+player/289,in_club,club/293
+player/290,name,Cristian Gamboa
+player/290,age,24
+player/290,position,DF
+player/290,in_team,country/33
+player/290,team_presences,25
+player/290,in_club,club/27
+player/291,name,Marco Ureña
+player/291,age,24
+player/291,position,FW
+player/291,in_team,country/33
+player/291,team_presences,23
+player/291,in_club,club/52
+player/292,name,Yeltsin Tejeda
+player/292,age,22
+player/292,position,MF
+player/292,in_team,country/33
+player/292,team_presences,22
+player/292,in_club,club/262
+player/293,name,Heiner Mora
+player/293,age,29
+player/293,position,DF
+player/293,in_team,country/33
+player/293,team_presences,21
+player/293,in_club,club/262
+player/294,name,Patrick Pemberton
+player/294,age,32
+player/294,position,GK
+player/294,in_team,country/33
+player/294,team_presences,20
+player/294,in_club,club/293
+player/295,name,Esteban Granados
+player/295,age,28
+player/295,position,MF
+player/295,in_team,country/33
+player/295,team_presences,11
+player/295,in_club,club/36
+player/296,name,Óscar Duarte
+player/296,age,25
+player/296,position,DF
+player/296,in_team,country/33
+player/296,team_presences,10
+player/296,in_club,club/271
+player/297,name,Diego Calvo
+player/297,age,23
+player/297,position,MF
+player/297,in_team,country/33
+player/297,team_presences,9
+player/297,in_club,club/291
+player/298,name,Daniel Cambronero
+player/298,age,28
+player/298,position,GK
+player/298,in_team,country/33
+player/298,team_presences,4
+player/298,in_club,club/36
+player/299,name,Waylon Francis
+player/299,age,23
+player/299,position,DF
+player/299,in_team,country/33
+player/299,team_presences,1
+player/299,in_club,club/15
+player/300,name,Joe Hart
+player/300,age,27
+player/300,position,GK
+player/300,in_team,country/3
+player/300,team_presences,40
+player/300,in_club,club/111
+player/301,name,Glen Johnson
+player/301,age,29
+player/301,position,DF
+player/301,in_team,country/3
+player/301,team_presences,51
+player/301,in_club,club/87
+player/302,name,Leighton Baines
+player/302,age,29
+player/302,position,DF
+player/302,in_team,country/3
+player/302,team_presences,23
+player/302,in_club,club/70
+player/303,name,Steven Gerrard (c)
+player/303,age,34
+player/303,position,MF
+player/303,in_team,country/3
+player/303,team_presences,110
+player/303,in_club,club/87
+player/304,name,Gary Cahill
+player/304,age,28
+player/304,position,DF
+player/304,in_team,country/3
+player/304,team_presences,23
+player/304,in_club,club/238
+player/305,name,Phil Jagielka
+player/305,age,31
+player/305,position,DF
+player/305,in_team,country/3
+player/305,team_presences,25
+player/305,in_club,club/70
+player/306,name,Jack Wilshere
+player/306,age,22
+player/306,position,MF
+player/306,in_team,country/3
+player/306,team_presences,16
+player/306,in_club,club/51
+player/307,name,Frank Lampard
+player/307,age,35
+player/307,position,MF
+player/307,in_team,country/3
+player/307,team_presences,103
+player/307,in_club,club/238
+player/308,name,Daniel Sturridge
+player/308,age,24
+player/308,position,FW
+player/308,in_team,country/3
+player/308,team_presences,11
+player/308,in_club,club/87
+player/309,name,Wayne Rooney
+player/309,age,28
+player/309,position,FW
+player/309,in_team,country/3
+player/309,team_presences,90
+player/309,in_club,club/292
+player/310,name,Danny Welbeck
+player/310,age,23
+player/310,position,FW
+player/310,in_team,country/3
+player/310,team_presences,22
+player/310,in_club,club/292
+player/311,name,Chris Smalling
+player/311,age,24
+player/311,position,DF
+player/311,in_team,country/3
+player/311,team_presences,11
+player/311,in_club,club/292
+player/312,name,Ben Foster
+player/312,age,31
+player/312,position,GK
+player/312,in_team,country/3
+player/312,team_presences,6
+player/312,in_club,club/100
+player/313,name,Jordan Henderson
+player/313,age,23
+player/313,position,MF
+player/313,in_team,country/3
+player/313,team_presences,9
+player/313,in_club,club/87
+player/314,name,Alex Oxlade-Chamberlain
+player/314,age,20
+player/314,position,MF
+player/314,in_team,country/3
+player/314,team_presences,14
+player/314,in_club,club/51
+player/315,name,Phil Jones
+player/315,age,22
+player/315,position,DF
+player/315,in_team,country/3
+player/315,team_presences,9
+player/315,in_club,club/292
+player/316,name,James Milner
+player/316,age,28
+player/316,position,MF
+player/316,in_team,country/3
+player/316,team_presences,46
+player/316,in_club,club/111
+player/317,name,Rickie Lambert
+player/317,age,32
+player/317,position,FW
+player/317,in_team,country/3
+player/317,team_presences,4
+player/317,in_club,club/65
+player/318,name,Raheem Sterling
+player/318,age,19
+player/318,position,MF
+player/318,in_team,country/3
+player/318,team_presences,3
+player/318,in_club,club/87
+player/319,name,Adam Lallana
+player/319,age,26
+player/319,position,MF
+player/319,in_team,country/3
+player/319,team_presences,4
+player/319,in_club,club/65
+player/320,name,Ross Barkley
+player/320,age,20
+player/320,position,MF
+player/320,in_team,country/3
+player/320,team_presences,4
+player/320,in_club,club/70
+player/321,name,Fraser Forster
+player/321,age,26
+player/321,position,GK
+player/321,in_team,country/3
+player/321,team_presences,1
+player/321,in_club,club/29
+player/322,name,Luke Shaw
+player/322,age,18
+player/322,position,DF
+player/322,in_team,country/3
+player/322,team_presences,1
+player/322,in_club,club/65
+player/323,name,Gianluigi Buffon (c)
+player/323,age,36
+player/323,position,GK
+player/323,in_team,country/26
+player/323,team_presences,139
+player/323,in_club,club/43
+player/324,name,Mattia De Sciglio
+player/324,age,21
+player/324,position,DF
+player/324,in_team,country/26
+player/324,team_presences,10
+player/324,in_club,club/30
+player/325,name,Giorgio Chiellini
+player/325,age,29
+player/325,position,DF
+player/325,in_team,country/26
+player/325,team_presences,67
+player/325,in_club,club/43
+player/326,name,Matteo Darmian
+player/326,age,24
+player/326,position,DF
+player/326,in_team,country/26
+player/326,team_presences,1
+player/326,in_club,club/145
+player/327,name,Thiago Motta
+player/327,age,31
+player/327,position,MF
+player/327,in_team,country/26
+player/327,team_presences,20
+player/327,in_club,club/197
+player/328,name,Antonio Candreva
+player/328,age,27
+player/328,position,MF
+player/328,in_team,country/26
+player/328,team_presences,19
+player/328,in_club,club/172
+player/329,name,Ignazio Abate
+player/329,age,27
+player/329,position,DF
+player/329,in_team,country/26
+player/329,team_presences,19
+player/329,in_club,club/30
+player/330,name,Claudio Marchisio
+player/330,age,28
+player/330,position,MF
+player/330,in_team,country/26
+player/330,team_presences,43
+player/330,in_club,club/43
+player/331,name,Mario Balotelli
+player/331,age,23
+player/331,position,FW
+player/331,in_team,country/26
+player/331,team_presences,29
+player/331,in_club,club/30
+player/332,name,Antonio Cassano
+player/332,age,31
+player/332,position,FW
+player/332,in_team,country/26
+player/332,team_presences,36
+player/332,in_club,club/178
+player/333,name,Alessio Cerci
+player/333,age,26
+player/333,position,FW
+player/333,in_team,country/26
+player/333,team_presences,11
+player/333,in_club,club/145
+player/334,name,Salvatore Sirigu
+player/334,age,27
+player/334,position,GK
+player/334,in_team,country/26
+player/334,team_presences,8
+player/334,in_club,club/197
+player/335,name,Mattia Perin
+player/335,age,21
+player/335,position,GK
+player/335,in_team,country/26
+player/335,team_presences,0
+player/335,in_club,club/155
+player/336,name,Alberto Aquilani
+player/336,age,29
+player/336,position,MF
+player/336,in_team,country/26
+player/336,team_presences,34
+player/336,in_club,club/213
+player/337,name,Andrea Barzagli
+player/337,age,33
+player/337,position,DF
+player/337,in_team,country/26
+player/337,team_presences,47
+player/337,in_club,club/43
+player/338,name,Daniele De Rossi
+player/338,age,30
+player/338,position,MF
+player/338,in_team,country/26
+player/338,team_presences,94
+player/338,in_club,club/83
+player/339,name,Ciro Immobile
+player/339,age,24
+player/339,position,FW
+player/339,in_team,country/26
+player/339,team_presences,2
+player/339,in_club,club/145
+player/340,name,Marco Parolo
+player/340,age,29
+player/340,position,MF
+player/340,in_team,country/26
+player/340,team_presences,3
+player/340,in_club,club/178
+player/341,name,Leonardo Bonucci
+player/341,age,27
+player/341,position,DF
+player/341,in_team,country/26
+player/341,team_presences,36
+player/341,in_club,club/43
+player/342,name,Gabriel Paletta
+player/342,age,28
+player/342,position,DF
+player/342,in_team,country/26
+player/342,team_presences,2
+player/342,in_club,club/178
+player/343,name,Andrea Pirlo
+player/343,age,35
+player/343,position,MF
+player/343,in_team,country/26
+player/343,team_presences,108
+player/343,in_club,club/43
+player/344,name,Lorenzo Insigne
+player/344,age,23
+player/344,position,FW
+player/344,in_team,country/26
+player/344,team_presences,4
+player/344,in_club,club/94
+player/345,name,Marco Verratti
+player/345,age,21
+player/345,position,MF
+player/345,in_team,country/26
+player/345,team_presences,5
+player/345,in_club,club/197
+player/346,name,Fernando Muslera
+player/346,age,27
+player/346,position,GK
+player/346,in_team,country/44
+player/346,team_presences,57
+player/346,in_club,club/118
+player/347,name,Diego Lugano (c)
+player/347,age,33
+player/347,position,DF
+player/347,in_team,country/44
+player/347,team_presences,93
+player/347,in_club,club/100
+player/348,name,Diego Godín
+player/348,age,28
+player/348,position,DF
+player/348,in_team,country/44
+player/348,team_presences,76
+player/348,in_club,club/14
+player/349,name,Sebastián Coates
+player/349,age,23
+player/349,position,DF
+player/349,in_team,country/44
+player/349,team_presences,14
+player/349,in_club,club/219
+player/350,name,Walter Gargano
+player/350,age,29
+player/350,position,MF
+player/350,in_team,country/44
+player/350,team_presences,62
+player/350,in_club,club/178
+player/351,name,Álvaro Pereira
+player/351,age,28
+player/351,position,MF
+player/351,in_team,country/44
+player/351,team_presences,56
+player/351,in_club,club/144
+player/352,name,Cristian Rodríguez
+player/352,age,28
+player/352,position,MF
+player/352,in_team,country/44
+player/352,team_presences,72
+player/352,in_club,club/14
+player/353,name,Abel Hernández
+player/353,age,23
+player/353,position,FW
+player/353,in_team,country/44
+player/353,team_presences,12
+player/353,in_club,club/231
+player/354,name,Luis Suárez
+player/354,age,27
+player/354,position,FW
+player/354,in_team,country/44
+player/354,team_presences,77
+player/354,in_club,club/87
+player/355,name,Diego Forlán
+player/355,age,35
+player/355,position,FW
+player/355,in_team,country/44
+player/355,team_presences,109
+player/355,in_club,club/112
+player/356,name,Christian Stuani
+player/356,age,27
+player/356,position,FW
+player/356,in_team,country/44
+player/356,team_presences,9
+player/356,in_club,club/199
+player/357,name,Rodrigo Muñoz
+player/357,age,32
+player/357,position,GK
+player/357,in_team,country/44
+player/357,team_presences,0
+player/357,in_club,club/107
+player/358,name,Jorge Fucile
+player/358,age,29
+player/358,position,DF
+player/358,in_team,country/44
+player/358,team_presences,41
+player/358,in_club,club/208
+player/359,name,Nicolás Lodeiro
+player/359,age,25
+player/359,position,MF
+player/359,in_team,country/44
+player/359,team_presences,26
+player/359,in_club,club/187
+player/360,name,Diego Pérez
+player/360,age,34
+player/360,position,MF
+player/360,in_team,country/44
+player/360,team_presences,89
+player/360,in_club,club/179
+player/361,name,Maxi Pereira
+player/361,age,30
+player/361,position,DF
+player/361,in_team,country/44
+player/361,team_presences,89
+player/361,in_club,club/104
+player/362,name,Egidio Arévalo Ríos
+player/362,age,32
+player/362,position,MF
+player/362,in_team,country/44
+player/362,team_presences,54
+player/362,in_club,club/283
+player/363,name,Gastón Ramírez
+player/363,age,23
+player/363,position,MF
+player/363,in_team,country/44
+player/363,team_presences,28
+player/363,in_club,club/65
+player/364,name,José María Giménez
+player/364,age,19
+player/364,position,DF
+player/364,in_team,country/44
+player/364,team_presences,5
+player/364,in_club,club/14
+player/365,name,Álvaro González
+player/365,age,29
+player/365,position,MF
+player/365,in_team,country/44
+player/365,team_presences,42
+player/365,in_club,club/172
+player/366,name,Edinson Cavani
+player/366,age,27
+player/366,position,FW
+player/366,in_team,country/44
+player/366,team_presences,61
+player/366,in_club,club/197
+player/367,name,Martín Cáceres
+player/367,age,27
+player/367,position,DF
+player/367,in_team,country/44
+player/367,team_presences,56
+player/367,in_club,club/43
+player/368,name,Martín Silva
+player/368,age,31
+player/368,position,GK
+player/368,in_team,country/44
+player/368,team_presences,4
+player/368,in_club,club/223
+player/369,name,Máximo Banguera
+player/369,age,28
+player/369,position,GK
+player/369,in_team,country/15
+player/369,team_presences,24
+player/369,in_club,club/176
+player/370,name,Jorge Guagua
+player/370,age,32
+player/370,position,DF
+player/370,in_team,country/15
+player/370,team_presences,58
+player/370,in_club,club/242
+player/371,name,Frickson Erazo
+player/371,age,26
+player/371,position,DF
+player/371,in_team,country/15
+player/371,team_presences,36
+player/371,in_club,club/227
+player/372,name,Juan Carlos Paredes
+player/372,age,26
+player/372,position,DF
+player/372,in_team,country/15
+player/372,team_presences,37
+player/372,in_club,club/176
+player/373,name,Renato Ibarra
+player/373,age,23
+player/373,position,MF
+player/373,in_team,country/15
+player/373,team_presences,17
+player/373,in_club,club/17
+player/374,name,Christian Noboa
+player/374,age,29
+player/374,position,MF
+player/374,in_team,country/15
+player/374,team_presences,41
+player/374,in_club,club/170
+player/375,name,Jefferson Montero
+player/375,age,24
+player/375,position,FW
+player/375,in_team,country/15
+player/375,team_presences,39
+player/375,in_club,club/283
+player/376,name,Édison Méndez
+player/376,age,35
+player/376,position,MF
+player/376,in_team,country/15
+player/376,team_presences,109
+player/376,in_club,club/26
+player/377,name,Joao Rojas
+player/377,age,24
+player/377,position,FW
+player/377,in_team,country/15
+player/377,team_presences,29
+player/377,in_club,club/89
+player/378,name,Walter Ayoví
+player/378,age,34
+player/378,position,DF
+player/378,in_team,country/15
+player/378,team_presences,89
+player/378,in_club,club/73
+player/379,name,Felipe Caicedo
+player/379,age,25
+player/379,position,FW
+player/379,in_team,country/15
+player/379,team_presences,49
+player/379,in_club,club/209
+player/380,name,Adrián Bone
+player/380,age,25
+player/380,position,GK
+player/380,in_team,country/15
+player/380,team_presences,3
+player/380,in_club,club/230
+player/381,name,Enner Valencia
+player/381,age,25
+player/381,position,FW
+player/381,in_team,country/15
+player/381,team_presences,9
+player/381,in_club,club/73
+player/382,name,Segundo Castillo
+player/382,age,32
+player/382,position,MF
+player/382,in_team,country/15
+player/382,team_presences,81
+player/382,in_club,club/127
+player/383,name,Michael Arroyo
+player/383,age,27
+player/383,position,FW
+player/383,in_team,country/15
+player/383,team_presences,20
+player/383,in_club,club/265
+player/384,name,Antonio Valencia (c)
+player/384,age,28
+player/384,position,MF
+player/384,in_team,country/15
+player/384,team_presences,70
+player/384,in_club,club/292
+player/385,name,Jaime Ayoví
+player/385,age,26
+player/385,position,FW
+player/385,in_team,country/15
+player/385,team_presences,30
+player/385,in_club,club/282
+player/386,name,Óscar Bagüí
+player/386,age,31
+player/386,position,DF
+player/386,in_team,country/15
+player/386,team_presences,21
+player/386,in_club,club/242
+player/387,name,Luis Saritama
+player/387,age,30
+player/387,position,MF
+player/387,in_team,country/15
+player/387,team_presences,48
+player/387,in_club,club/176
+player/388,name,Fidel Martínez
+player/388,age,24
+player/388,position,MF
+player/388,in_team,country/15
+player/388,team_presences,8
+player/388,in_club,club/282
+player/389,name,Gabriel Achilier
+player/389,age,29
+player/389,position,DF
+player/389,in_team,country/15
+player/389,team_presences,22
+player/389,in_club,club/242
+player/390,name,Alexander Domínguez
+player/390,age,27
+player/390,position,GK
+player/390,in_team,country/15
+player/390,team_presences,18
+player/390,in_club,club/5
+player/391,name,Carlos Gruezo
+player/391,age,19
+player/391,position,MF
+player/391,in_team,country/15
+player/391,team_presences,2
+player/391,in_club,club/275
+player/392,name,Hugo Lloris (c)
+player/392,age,27
+player/392,position,GK
+player/392,in_team,country/38
+player/392,team_presences,56
+player/392,in_club,club/243
+player/393,name,Mathieu Debuchy
+player/393,age,28
+player/393,position,DF
+player/393,in_team,country/38
+player/393,team_presences,20
+player/393,in_club,club/10
+player/394,name,Patrice Evra
+player/394,age,33
+player/394,position,DF
+player/394,in_team,country/38
+player/394,team_presences,57
+player/394,in_club,club/292
+player/395,name,Raphaël Varane
+player/395,age,21
+player/395,position,DF
+player/395,in_team,country/38
+player/395,team_presences,5
+player/395,in_club,club/90
+player/396,name,Mamadou Sakho
+player/396,age,24
+player/396,position,DF
+player/396,in_team,country/38
+player/396,team_presences,18
+player/396,in_club,club/87
+player/397,name,Yohan Cabaye
+player/397,age,28
+player/397,position,MF
+player/397,in_team,country/38
+player/397,team_presences,29
+player/397,in_club,club/197
+player/398,name,Franck Ribéry
+player/398,age,31
+player/398,position,MF
+player/398,in_team,country/38
+player/398,team_presences,81
+player/398,in_club,club/207
+player/399,name,Mathieu Valbuena
+player/399,age,29
+player/399,position,MF
+player/399,in_team,country/38
+player/399,team_presences,33
+player/399,in_club,club/78
+player/400,name,Olivier Giroud
+player/400,age,27
+player/400,position,FW
+player/400,in_team,country/38
+player/400,team_presences,29
+player/400,in_club,club/51
+player/401,name,Karim Benzema
+player/401,age,26
+player/401,position,FW
+player/401,in_team,country/38
+player/401,team_presences,65
+player/401,in_club,club/90
+player/402,name,Antoine Griezmann
+player/402,age,23
+player/402,position,MF
+player/402,in_team,country/38
+player/402,team_presences,3
+player/402,in_club,club/296
+player/403,name,Rio Mavuba
+player/403,age,30
+player/403,position,MF
+player/403,in_team,country/38
+player/403,team_presences,11
+player/403,in_club,club/39
+player/404,name,Eliaquim Mangala
+player/404,age,23
+player/404,position,DF
+player/404,in_team,country/38
+player/404,team_presences,3
+player/404,in_club,club/208
+player/405,name,Blaise Matuidi
+player/405,age,27
+player/405,position,MF
+player/405,in_team,country/38
+player/405,team_presences,22
+player/405,in_club,club/197
+player/406,name,Bacary Sagna
+player/406,age,31
+player/406,position,DF
+player/406,in_team,country/38
+player/406,team_presences,40
+player/406,in_club,club/51
+player/407,name,Stéphane Ruffier[33]
+player/407,age,27
+player/407,position,GK
+player/407,in_team,country/38
+player/407,team_presences,2
+player/407,in_club,club/212
+player/408,name,Lucas Digne
+player/408,age,20
+player/408,position,DF
+player/408,in_team,country/38
+player/408,team_presences,2
+player/408,in_club,club/197
+player/409,name,Moussa Sissoko
+player/409,age,24
+player/409,position,MF
+player/409,in_team,country/38
+player/409,team_presences,16
+player/409,in_club,club/10
+player/410,name,Paul Pogba
+player/410,age,21
+player/410,position,MF
+player/410,in_team,country/38
+player/410,team_presences,10
+player/410,in_club,club/43
+player/411,name,Loïc Rémy
+player/411,age,27
+player/411,position,FW
+player/411,in_team,country/38
+player/411,team_presences,24
+player/411,in_club,club/10
+player/412,name,Laurent Koscielny
+player/412,age,28
+player/412,position,DF
+player/412,in_team,country/38
+player/412,team_presences,17
+player/412,in_club,club/51
+player/413,name,Clément Grenier
+player/413,age,23
+player/413,position,MF
+player/413,in_team,country/38
+player/413,team_presences,5
+player/413,in_club,club/59
+player/414,name,Mickaël Landreau
+player/414,age,35
+player/414,position,GK
+player/414,in_team,country/38
+player/414,team_presences,11
+player/414,in_club,club/32
+player/415,name,Luis López
+player/415,age,20
+player/415,position,GK
+player/415,in_team,country/27
+player/415,team_presences,0
+player/415,in_club,club/224
+player/416,name,Osman Chávez
+player/416,age,29
+player/416,position,DF
+player/416,in_team,country/27
+player/416,team_presences,54
+player/416,in_club,club/92
+player/417,name,Maynor Figueroa
+player/417,age,31
+player/417,position,DF
+player/417,in_team,country/27
+player/417,team_presences,104
+player/417,in_club,club/22
+player/418,name,Juan Pablo Montes
+player/418,age,28
+player/418,position,DF
+player/418,in_team,country/27
+player/418,team_presences,11
+player/418,in_club,club/20
+player/419,name,Víctor Bernárdez
+player/419,age,32
+player/419,position,DF
+player/419,in_team,country/27
+player/419,team_presences,77
+player/419,in_club,club/277
+player/420,name,Juan Carlos García
+player/420,age,26
+player/420,position,DF
+player/420,in_team,country/27
+player/420,team_presences,33
+player/420,in_club,club/251
+player/421,name,Emilio Izaguirre
+player/421,age,28
+player/421,position,DF
+player/421,in_team,country/27
+player/421,team_presences,67
+player/421,in_club,club/29
+player/422,name,Wilson Palacios
+player/422,age,29
+player/422,position,MF
+player/422,in_team,country/27
+player/422,team_presences,94
+player/422,in_club,club/165
+player/423,name,Jerry Palacios
+player/423,age,32
+player/423,position,FW
+player/423,in_team,country/27
+player/423,team_presences,23
+player/423,in_club,club/293
+player/424,name,Mario Martínez
+player/424,age,24
+player/424,position,MF
+player/424,in_team,country/27
+player/424,team_presences,35
+player/424,in_club,club/224
+player/425,name,Jerry Bengtson
+player/425,age,27
+player/425,position,FW
+player/425,in_team,country/27
+player/425,team_presences,43
+player/425,in_club,club/211
+player/426,name,Edder Delgado[35]
+player/426,age,27
+player/426,position,MF
+player/426,in_team,country/27
+player/426,team_presences,25
+player/426,in_club,club/224
+player/427,name,Carlo Costly
+player/427,age,31
+player/427,position,FW
+player/427,in_team,country/27
+player/427,team_presences,69
+player/427,in_club,club/224
+player/428,name,Óscar García
+player/428,age,29
+player/428,position,MF
+player/428,in_team,country/27
+player/428,team_presences,92
+player/428,in_club,club/75
+player/429,name,Roger Espinoza
+player/429,age,27
+player/429,position,MF
+player/429,in_team,country/27
+player/429,team_presences,41
+player/429,in_club,club/251
+player/430,name,Rony Martínez
+player/430,age,25
+player/430,position,FW
+player/430,in_team,country/27
+player/430,team_presences,12
+player/430,in_club,club/296
+player/431,name,Marvin Chávez
+player/431,age,30
+player/431,position,MF
+player/431,in_team,country/27
+player/431,team_presences,41
+player/431,in_club,club/254
+player/432,name,Noel Valladares (c)
+player/432,age,37
+player/432,position,GK
+player/432,in_team,country/27
+player/432,team_presences,121
+player/432,in_club,club/191
+player/433,name,Luis Garrido
+player/433,age,23
+player/433,position,MF
+player/433,in_team,country/27
+player/433,team_presences,19
+player/433,in_club,club/191
+player/434,name,Jorge Claros
+player/434,age,28
+player/434,position,MF
+player/434,in_team,country/27
+player/434,team_presences,48
+player/434,in_club,club/20
+player/435,name,Andy Najar
+player/435,age,21
+player/435,position,MF
+player/435,in_team,country/27
+player/435,team_presences,16
+player/435,in_club,club/284
+player/436,name,Donis Escober
+player/436,age,34
+player/436,position,GK
+player/436,in_team,country/27
+player/436,team_presences,26
+player/436,in_club,club/191
+player/437,name,Brayan Beckeles
+player/437,age,28
+player/437,position,DF
+player/437,in_team,country/27
+player/437,team_presences,22
+player/437,in_club,club/191
+player/438,name,Diego Benaglio
+player/438,age,30
+player/438,position,GK
+player/438,in_team,country/46
+player/438,team_presences,56
+player/438,in_club,club/81
+player/439,name,Stephan Lichtsteiner
+player/439,age,30
+player/439,position,DF
+player/439,in_team,country/46
+player/439,team_presences,62
+player/439,in_club,club/43
+player/440,name,Reto Ziegler
+player/440,age,28
+player/440,position,DF
+player/440,in_team,country/46
+player/440,team_presences,35
+player/440,in_club,club/280
+player/441,name,Philippe Senderos
+player/441,age,29
+player/441,position,DF
+player/441,in_team,country/46
+player/441,team_presences,53
+player/441,in_club,club/297
+player/442,name,Steve von Bergen
+player/442,age,31
+player/442,position,DF
+player/442,in_team,country/46
+player/442,team_presences,40
+player/442,in_club,club/122
+player/443,name,Michael Lang
+player/443,age,23
+player/443,position,DF
+player/443,in_team,country/46
+player/443,team_presences,5
+player/443,in_club,club/21
+player/444,name,Tranquillo Barnetta
+player/444,age,29
+player/444,position,MF
+player/444,in_team,country/46
+player/444,team_presences,73
+player/444,in_club,club/113
+player/445,name,Gökhan Inler (c)
+player/445,age,29
+player/445,position,MF
+player/445,in_team,country/46
+player/445,team_presences,71
+player/445,in_club,club/94
+player/446,name,Haris Seferović
+player/446,age,22
+player/446,position,FW
+player/446,in_team,country/46
+player/446,team_presences,10
+player/446,in_club,club/296
+player/447,name,Granit Xhaka
+player/447,age,21
+player/447,position,MF
+player/447,in_team,country/46
+player/447,team_presences,25
+player/447,in_club,club/202
+player/448,name,Valon Behrami
+player/448,age,29
+player/448,position,MF
+player/448,in_team,country/46
+player/448,team_presences,47
+player/448,in_club,club/94
+player/449,name,Yann Sommer
+player/449,age,25
+player/449,position,GK
+player/449,in_team,country/46
+player/449,team_presences,6
+player/449,in_club,club/48
+player/450,name,Ricardo Rodríguez
+player/450,age,21
+player/450,position,DF
+player/450,in_team,country/46
+player/450,team_presences,20
+player/450,in_club,club/81
+player/451,name,Valentin Stocker
+player/451,age,25
+player/451,position,MF
+player/451,in_team,country/46
+player/451,team_presences,23
+player/451,in_club,club/48
+player/452,name,Blerim Džemaili
+player/452,age,28
+player/452,position,MF
+player/452,in_team,country/46
+player/452,team_presences,33
+player/452,in_club,club/94
+player/453,name,Gelson Fernandes
+player/453,age,27
+player/453,position,MF
+player/453,in_team,country/46
+player/453,team_presences,47
+player/453,in_club,club/71
+player/454,name,Mario Gavranović
+player/454,age,24
+player/454,position,FW
+player/454,in_team,country/46
+player/454,team_presences,10
+player/454,in_club,club/18
+player/455,name,Admir Mehmedi
+player/455,age,23
+player/455,position,FW
+player/455,in_team,country/46
+player/455,team_presences,20
+player/455,in_club,club/71
+player/456,name,Josip Drmić
+player/456,age,21
+player/456,position,FW
+player/456,in_team,country/46
+player/456,team_presences,6
+player/456,in_club,club/278
+player/457,name,Johan Djourou
+player/457,age,27
+player/457,position,DF
+player/457,in_team,country/46
+player/457,team_presences,44
+player/457,in_club,club/290
+player/458,name,Roman Bürki
+player/458,age,23
+player/458,position,GK
+player/458,in_team,country/46
+player/458,team_presences,0
+player/458,in_club,club/21
+player/459,name,Fabian Schär
+player/459,age,22
+player/459,position,DF
+player/459,in_team,country/46
+player/459,team_presences,5
+player/459,in_club,club/48
+player/460,name,Xherdan Shaqiri
+player/460,age,22
+player/460,position,MF
+player/460,in_team,country/46
+player/460,team_presences,32
+player/460,in_club,club/207
+player/461,name,Sergio Romero
+player/461,age,27
+player/461,position,GK
+player/461,in_team,country/16
+player/461,team_presences,45
+player/461,in_club,club/234
+player/462,name,Ezequiel Garay
+player/462,age,27
+player/462,position,DF
+player/462,in_team,country/16
+player/462,team_presences,18
+player/462,in_club,club/104
+player/463,name,Hugo Campagnaro
+player/463,age,33
+player/463,position,DF
+player/463,in_team,country/16
+player/463,team_presences,13
+player/463,in_club,club/268
+player/464,name,Pablo Zabaleta
+player/464,age,29
+player/464,position,DF
+player/464,in_team,country/16
+player/464,team_presences,36
+player/464,in_club,club/111
+player/465,name,Fernando Gago
+player/465,age,28
+player/465,position,MF
+player/465,in_team,country/16
+player/465,team_presences,47
+player/465,in_club,club/120
+player/466,name,Lucas Biglia
+player/466,age,28
+player/466,position,MF
+player/466,in_team,country/16
+player/466,team_presences,16
+player/466,in_club,club/172
+player/467,name,Ángel di María
+player/467,age,26
+player/467,position,MF
+player/467,in_team,country/16
+player/467,team_presences,45
+player/467,in_club,club/90
+player/468,name,Enzo Pérez
+player/468,age,28
+player/468,position,MF
+player/468,in_team,country/16
+player/468,team_presences,5
+player/468,in_club,club/104
+player/469,name,Gonzalo Higuaín
+player/469,age,26
+player/469,position,FW
+player/469,in_team,country/16
+player/469,team_presences,36
+player/469,in_club,club/94
+player/470,name,Lionel Messi (c)
+player/470,age,26
+player/470,position,FW
+player/470,in_team,country/16
+player/470,team_presences,84
+player/470,in_club,club/160
+player/471,name,Maxi Rodríguez
+player/471,age,33
+player/471,position,MF
+player/471,in_team,country/16
+player/471,team_presences,53
+player/471,in_club,club/57
+player/472,name,Agustín Orión
+player/472,age,32
+player/472,position,GK
+player/472,in_team,country/16
+player/472,team_presences,3
+player/472,in_club,club/120
+player/473,name,Augusto Fernández
+player/473,age,28
+player/473,position,MF
+player/473,in_team,country/16
+player/473,team_presences,7
+player/473,in_club,club/241
+player/474,name,Javier Mascherano
+player/474,age,30
+player/474,position,MF
+player/474,in_team,country/16
+player/474,team_presences,96
+player/474,in_club,club/160
+player/475,name,Martín Demichelis
+player/475,age,33
+player/475,position,DF
+player/475,in_team,country/16
+player/475,team_presences,37
+player/475,in_club,club/111
+player/476,name,Marcos Rojo
+player/476,age,24
+player/476,position,DF
+player/476,in_team,country/16
+player/476,team_presences,20
+player/476,in_club,club/40
+player/477,name,Federico Fernández
+player/477,age,25
+player/477,position,DF
+player/477,in_team,country/16
+player/477,team_presences,24
+player/477,in_club,club/94
+player/478,name,Rodrigo Palacio
+player/478,age,32
+player/478,position,FW
+player/478,in_team,country/16
+player/478,team_presences,15
+player/478,in_club,club/268
+player/479,name,Ricardo Álvarez
+player/479,age,26
+player/479,position,MF
+player/479,in_team,country/16
+player/479,team_presences,5
+player/479,in_club,club/268
+player/480,name,Sergio Agüero
+player/480,age,26
+player/480,position,FW
+player/480,in_team,country/16
+player/480,team_presences,50
+player/480,in_club,club/111
+player/481,name,Mariano Andújar
+player/481,age,30
+player/481,position,GK
+player/481,in_team,country/16
+player/481,team_presences,10
+player/481,in_club,club/132
+player/482,name,Ezequiel Lavezzi
+player/482,age,29
+player/482,position,FW
+player/482,in_team,country/16
+player/482,team_presences,29
+player/482,in_club,club/197
+player/483,name,José María Basanta
+player/483,age,30
+player/483,position,DF
+player/483,in_team,country/16
+player/483,team_presences,8
+player/483,in_club,club/150
+player/484,name,Asmir Avdukić
+player/484,age,33
+player/484,position,GK
+player/484,in_team,country/20
+player/484,team_presences,3
+player/484,in_club,club/218
+player/485,name,Avdija Vršajević
+player/485,age,28
+player/485,position,DF
+player/485,in_team,country/20
+player/485,team_presences,13
+player/485,in_club,club/180
+player/486,name,Ermin Bičakčić
+player/486,age,24
+player/486,position,DF
+player/486,in_team,country/20
+player/486,team_presences,7
+player/486,in_club,club/13
+player/487,name,Emir Spahić (c)
+player/487,age,33
+player/487,position,DF
+player/487,in_team,country/20
+player/487,team_presences,74
+player/487,in_club,club/23
+player/488,name,Sead Kolašinac
+player/488,age,20
+player/488,position,DF
+player/488,in_team,country/20
+player/488,team_presences,4
+player/488,in_club,club/128
+player/489,name,Ognjen Vranješ
+player/489,age,24
+player/489,position,DF
+player/489,in_team,country/20
+player/489,team_presences,13
+player/489,in_club,club/56
+player/490,name,Muhamed Bešić
+player/490,age,21
+player/490,position,DF
+player/490,in_team,country/20
+player/490,team_presences,9
+player/490,in_club,club/28
+player/491,name,Miralem Pjanić
+player/491,age,24
+player/491,position,MF
+player/491,in_team,country/20
+player/491,team_presences,48
+player/491,in_club,club/83
+player/492,name,Vedad Ibišević
+player/492,age,29
+player/492,position,FW
+player/492,in_team,country/20
+player/492,team_presences,55
+player/492,in_club,club/275
+player/493,name,Zvjezdan Misimović
+player/493,age,32
+player/493,position,MF
+player/493,in_team,country/20
+player/493,team_presences,82
+player/493,in_club,club/117
+player/494,name,Edin Džeko
+player/494,age,28
+player/494,position,FW
+player/494,in_team,country/20
+player/494,team_presences,62
+player/494,in_club,club/111
+player/495,name,Jasmin Fejzić
+player/495,age,28
+player/495,position,GK
+player/495,in_team,country/20
+player/495,team_presences,0
+player/495,in_club,club/203
+player/496,name,Mensur Mujdža
+player/496,age,30
+player/496,position,DF
+player/496,in_team,country/20
+player/496,team_presences,24
+player/496,in_club,club/71
+player/497,name,Izet Hajrović
+player/497,age,22
+player/497,position,MF
+player/497,in_team,country/20
+player/497,team_presences,7
+player/497,in_club,club/118
+player/498,name,Toni Šunjić
+player/498,age,25
+player/498,position,DF
+player/498,in_team,country/20
+player/498,team_presences,7
+player/498,in_club,club/93
+player/499,name,Senad Lulić
+player/499,age,28
+player/499,position,MF
+player/499,in_team,country/20
+player/499,team_presences,33
+player/499,in_club,club/172
+player/500,name,Senijad Ibričić
+player/500,age,28
+player/500,position,MF
+player/500,in_team,country/20
+player/500,team_presences,42
+player/500,in_club,club/60
+player/501,name,Haris Medunjanin
+player/501,age,29
+player/501,position,MF
+player/501,in_team,country/20
+player/501,team_presences,35
+player/501,in_club,club/33
+player/502,name,Edin Višća
+player/502,age,24
+player/502,position,FW
+player/502,in_team,country/20
+player/502,team_presences,10
+player/502,in_club,club/140
+player/503,name,Anel Hadžić
+player/503,age,24
+player/503,position,MF
+player/503,in_team,country/20
+player/503,team_presences,2
+player/503,in_club,club/233
+player/504,name,Tino-Sven Sušić
+player/504,age,22
+player/504,position,MF
+player/504,in_team,country/20
+player/504,team_presences,2
+player/504,in_club,club/180
+player/505,name,Asmir Begović
+player/505,age,26
+player/505,position,GK
+player/505,in_team,country/20
+player/505,team_presences,30
+player/505,in_club,club/165
+player/506,name,Sejad Salihović
+player/506,age,29
+player/506,position,MF
+player/506,in_team,country/20
+player/506,team_presences,42
+player/506,in_club,club/19
+player/507,name,Javad Nekounam (c)
+player/507,age,33
+player/507,position,MF
+player/507,in_team,country/9
+player/507,team_presences,139
+player/507,in_club,club/102
+player/508,name,Jalal Hosseini
+player/508,age,32
+player/508,position,DF
+player/508,in_team,country/9
+player/508,team_presences,84
+player/508,in_club,club/266
+player/509,name,Andranik Teymourian
+player/509,age,31
+player/509,position,MF
+player/509,in_team,country/9
+player/509,team_presences,78
+player/509,in_club,club/236
+player/510,name,Ehsan Hajsafi
+player/510,age,24
+player/510,position,DF
+player/510,in_team,country/9
+player/510,team_presences,61
+player/510,in_club,club/76
+player/511,name,Masoud Shojaei
+player/511,age,30
+player/511,position,MF
+player/511,in_team,country/9
+player/511,team_presences,49
+player/511,in_club,club/188
+player/512,name,Khosro Heydari
+player/512,age,30
+player/512,position,DF
+player/512,in_team,country/9
+player/512,team_presences,48
+player/512,in_club,club/236
+player/513,name,Karim Ansarifard
+player/513,age,24
+player/513,position,FW
+player/513,in_team,country/9
+player/513,team_presences,41
+player/513,in_club,club/38
+player/514,name,Pejman Montazeri
+player/514,age,30
+player/514,position,DF
+player/514,in_team,country/9
+player/514,team_presences,21
+player/514,in_club,club/259
+player/515,name,Hossein Mahini
+player/515,age,27
+player/515,position,DF
+player/515,in_team,country/9
+player/515,team_presences,21
+player/515,in_club,club/266
+player/516,name,Mehrdad Pouladi
+player/516,age,27
+player/516,position,DF
+player/516,in_team,country/9
+player/516,team_presences,19
+player/516,in_club,club/266
+player/517,name,Hashem Beikzadeh
+player/517,age,30
+player/517,position,DF
+player/517,in_team,country/9
+player/517,team_presences,17
+player/517,in_club,club/236
+player/518,name,Ghasem Haddadifar
+player/518,age,30
+player/518,position,MF
+player/518,in_team,country/9
+player/518,team_presences,16
+player/518,in_club,club/196
+player/519,name,Amir Hossein Sadeghi
+player/519,age,32
+player/519,position,DF
+player/519,in_team,country/9
+player/519,team_presences,16
+player/519,in_club,club/236
+player/520,name,Ashkan Dejagah
+player/520,age,27
+player/520,position,MF
+player/520,in_team,country/9
+player/520,team_presences,13
+player/520,in_club,club/3
+player/521,name,Reza Ghoochannejhad
+player/521,age,26
+player/521,position,FW
+player/521,in_team,country/9
+player/521,team_presences,13
+player/521,in_club,club/256
+player/522,name,Rahman Ahmadi
+player/522,age,33
+player/522,position,GK
+player/522,in_team,country/9
+player/522,team_presences,10
+player/522,in_club,club/76
+player/523,name,Ahmad Alenemeh
+player/523,age,31
+player/523,position,DF
+player/523,in_team,country/9
+player/523,team_presences,9
+player/523,in_club,club/183
+player/524,name,Reza Haghighi
+player/524,age,25
+player/524,position,MF
+player/524,in_team,country/9
+player/524,team_presences,7
+player/524,in_club,club/266
+player/525,name,Steven Beitashour
+player/525,age,27
+player/525,position,DF
+player/525,in_team,country/9
+player/525,team_presences,6
+player/525,in_club,club/74
+player/526,name,Alireza Jahanbakhsh
+player/526,age,20
+player/526,position,FW
+player/526,in_team,country/9
+player/526,team_presences,6
+player/526,in_club,club/206
+player/527,name,Alireza Haghighi
+player/527,age,26
+player/527,position,GK
+player/527,in_team,country/9
+player/527,team_presences,5
+player/527,in_club,club/225
+player/528,name,Daniel Davari
+player/528,age,26
+player/528,position,GK
+player/528,in_team,country/9
+player/528,team_presences,4
+player/528,in_club,club/13
+player/529,name,Bakhtiar Rahmani
+player/529,age,22
+player/529,position,MF
+player/529,in_team,country/9
+player/529,team_presences,4
+player/529,in_club,club/130
+player/530,name,Joseph Yobo
+player/530,age,33
+player/530,position,DF
+player/530,in_team,country/40
+player/530,team_presences,96
+player/530,in_club,club/41
+player/531,name,Vincent Enyeama (c)
+player/531,age,31
+player/531,position,GK
+player/531,in_team,country/40
+player/531,team_presences,90
+player/531,in_club,club/39
+player/532,name,Peter Odemwingie
+player/532,age,32
+player/532,position,FW
+player/532,in_team,country/40
+player/532,team_presences,60
+player/532,in_club,club/165
+player/533,name,John Obi Mikel
+player/533,age,27
+player/533,position,MF
+player/533,in_team,country/40
+player/533,team_presences,59
+player/533,in_club,club/238
+player/534,name,Uwa Elderson Echiéjilé
+player/534,age,26
+player/534,position,DF
+player/534,in_team,country/40
+player/534,team_presences,42
+player/534,in_club,club/234
+player/535,name,Efe Ambrose
+player/535,age,25
+player/535,position,DF
+player/535,in_team,country/40
+player/535,team_presences,36
+player/535,in_club,club/29
+player/536,name,Godfrey Oboabona
+player/536,age,23
+player/536,position,DF
+player/536,in_team,country/40
+player/536,team_presences,35
+player/536,in_club,club/184
+player/537,name,Ahmed Musa
+player/537,age,21
+player/537,position,FW
+player/537,in_team,country/40
+player/537,team_presences,35
+player/537,in_club,club/141
+player/538,name,Austin Ejide
+player/538,age,30
+player/538,position,GK
+player/538,in_team,country/40
+player/538,team_presences,32
+player/538,in_club,club/58
+player/539,name,Azubuike Egwuekwe
+player/539,age,24
+player/539,position,DF
+player/539,in_team,country/40
+player/539,team_presences,32
+player/539,in_club,club/133
+player/540,name,Emmanuel Emenike
+player/540,age,27
+player/540,position,FW
+player/540,in_team,country/40
+player/540,team_presences,22
+player/540,in_club,club/229
+player/541,name,Victor Moses
+player/541,age,23
+player/541,position,MF
+player/541,in_team,country/40
+player/541,team_presences,20
+player/541,in_club,club/87
+player/542,name,Ogenyi Onazi
+player/542,age,21
+player/542,position,MF
+player/542,in_team,country/40
+player/542,team_presences,20
+player/542,in_club,club/172
+player/543,name,Kenneth Omeruo
+player/543,age,20
+player/543,position,DF
+player/543,in_team,country/40
+player/543,team_presences,17
+player/543,in_club,club/192
+player/544,name,Reuben Gabriel
+player/544,age,23
+player/544,position,MF
+player/544,in_team,country/40
+player/544,team_presences,11
+player/544,in_club,club/101
+player/545,name,Chigozie Agbim
+player/545,age,29
+player/545,position,GK
+player/545,in_team,country/40
+player/545,team_presences,11
+player/545,in_club,club/31
+player/546,name,Kunle Odunlami
+player/546,age,24
+player/546,position,DF
+player/546,in_team,country/40
+player/546,team_presences,10
+player/546,in_club,club/157
+player/547,name,Juwon Oshaniwa
+player/547,age,23
+player/547,position,DF
+player/547,in_team,country/40
+player/547,team_presences,10
+player/547,in_club,club/47
+player/548,name,Uche Nwofor
+player/548,age,22
+player/548,position,FW
+player/548,in_team,country/40
+player/548,team_presences,6
+player/548,in_club,club/247
+player/549,name,Shola Ameobi
+player/549,age,32
+player/549,position,FW
+player/549,in_team,country/40
+player/549,team_presences,6
+player/549,in_club,club/10
+player/550,name,Michael Babatunde
+player/550,age,21
+player/550,position,MF
+player/550,in_team,country/40
+player/550,team_presences,4
+player/550,in_club,club/80
+player/551,name,Michael Uchebo
+player/551,age,24
+player/551,position,FW
+player/551,in_team,country/40
+player/551,team_presences,3
+player/551,in_club,club/168
+player/552,name,Ramon Azeez
+player/552,age,21
+player/552,position,MF
+player/552,in_team,country/40
+player/552,team_presences,1
+player/552,in_club,club/288
+player/553,name,Manuel Neuer
+player/553,age,28
+player/553,position,GK
+player/553,in_team,country/28
+player/553,team_presences,45
+player/553,in_club,club/207
+player/554,name,Kevin Großkreutz
+player/554,age,25
+player/554,position,DF
+player/554,in_team,country/28
+player/554,team_presences,4
+player/554,in_club,club/289
+player/555,name,Matthias Ginter
+player/555,age,20
+player/555,position,MF
+player/555,in_team,country/28
+player/555,team_presences,2
+player/555,in_club,club/71
+player/556,name,Benedikt Höwedes
+player/556,age,26
+player/556,position,DF
+player/556,in_team,country/28
+player/556,team_presences,20
+player/556,in_club,club/128
+player/557,name,Mats Hummels
+player/557,age,25
+player/557,position,DF
+player/557,in_team,country/28
+player/557,team_presences,29
+player/557,in_club,club/289
+player/558,name,Sami Khedira
+player/558,age,27
+player/558,position,MF
+player/558,in_team,country/28
+player/558,team_presences,45
+player/558,in_club,club/90
+player/559,name,Bastian Schweinsteiger
+player/559,age,29
+player/559,position,MF
+player/559,in_team,country/28
+player/559,team_presences,101
+player/559,in_club,club/207
+player/560,name,Mesut Özil
+player/560,age,25
+player/560,position,MF
+player/560,in_team,country/28
+player/560,team_presences,54
+player/560,in_club,club/51
+player/561,name,André Schürrle
+player/561,age,23
+player/561,position,MF
+player/561,in_team,country/28
+player/561,team_presences,32
+player/561,in_club,club/238
+player/562,name,Lukas Podolski
+player/562,age,29
+player/562,position,MF
+player/562,in_team,country/28
+player/562,team_presences,113
+player/562,in_club,club/51
+player/563,name,Miroslav Klose
+player/563,age,36
+player/563,position,FW
+player/563,in_team,country/28
+player/563,team_presences,131
+player/563,in_club,club/172
+player/564,name,Ron-Robert Zieler
+player/564,age,25
+player/564,position,GK
+player/564,in_team,country/28
+player/564,team_presences,3
+player/564,in_club,club/63
+player/565,name,Thomas Müller
+player/565,age,24
+player/565,position,MF
+player/565,in_team,country/28
+player/565,team_presences,48
+player/565,in_club,club/207
+player/566,name,Julian Draxler
+player/566,age,20
+player/566,position,MF
+player/566,in_team,country/28
+player/566,team_presences,11
+player/566,in_club,club/128
+player/567,name,Erik Durm
+player/567,age,22
+player/567,position,DF
+player/567,in_team,country/28
+player/567,team_presences,1
+player/567,in_club,club/289
+player/568,name,Philipp Lahm (c)
+player/568,age,30
+player/568,position,DF
+player/568,in_team,country/28
+player/568,team_presences,105
+player/568,in_club,club/207
+player/569,name,Per Mertesacker
+player/569,age,29
+player/569,position,DF
+player/569,in_team,country/28
+player/569,team_presences,97
+player/569,in_club,club/51
+player/570,name,Toni Kroos
+player/570,age,24
+player/570,position,MF
+player/570,in_team,country/28
+player/570,team_presences,43
+player/570,in_club,club/207
+player/571,name,Mario Götze
+player/571,age,22
+player/571,position,MF
+player/571,in_team,country/28
+player/571,team_presences,28
+player/571,in_club,club/207
+player/572,name,Jérôme Boateng
+player/572,age,25
+player/572,position,DF
+player/572,in_team,country/28
+player/572,team_presences,38
+player/572,in_club,club/207
+player/573,name,Marco Reus
+player/573,age,25
+player/573,position,MF
+player/573,in_team,country/28
+player/573,team_presences,20
+player/573,in_club,club/289
+player/574,name,Roman Weidenfeller
+player/574,age,33
+player/574,position,GK
+player/574,in_team,country/28
+player/574,team_presences,2
+player/574,in_club,club/289
+player/575,name,Christoph Kramer
+player/575,age,23
+player/575,position,MF
+player/575,in_team,country/28
+player/575,team_presences,2
+player/575,in_club,club/202
+player/576,name,Sulley Muntari
+player/576,age,29
+player/576,position,MF
+player/576,in_team,country/21
+player/576,team_presences,81
+player/576,in_club,club/30
+player/577,name,Asamoah Gyan (c)
+player/577,age,28
+player/577,position,FW
+player/577,in_team,country/21
+player/577,team_presences,78
+player/577,in_club,club/105
+player/578,name,Kwadwo Asamoah
+player/578,age,25
+player/578,position,MF
+player/578,in_team,country/21
+player/578,team_presences,61
+player/578,in_club,club/43
+player/579,name,Michael Essien
+player/579,age,31
+player/579,position,MF
+player/579,in_team,country/21
+player/579,team_presences,57
+player/579,in_club,club/30
+player/580,name,Badu
+player/580,age,23
+player/580,position,MF
+player/580,in_team,country/21
+player/580,team_presences,48
+player/580,in_club,club/286
+player/581,name,André Ayew
+player/581,age,24
+player/581,position,MF
+player/581,in_team,country/21
+player/581,team_presences,48
+player/581,in_club,club/78
+player/582,name,Samuel Inkoom
+player/582,age,25
+player/582,position,DF
+player/582,in_team,country/21
+player/582,team_presences,46
+player/582,in_club,club/8
+player/583,name,Harrison Afful
+player/583,age,27
+player/583,position,DF
+player/583,in_team,country/21
+player/583,team_presences,40
+player/583,in_club,club/35
+player/584,name,John Boye
+player/584,age,27
+player/584,position,DF
+player/584,in_team,country/21
+player/584,team_presences,29
+player/584,in_club,club/135
+player/585,name,Jonathan Mensah
+player/585,age,23
+player/585,position,DF
+player/585,in_team,country/21
+player/585,team_presences,26
+player/585,in_club,club/169
+player/586,name,Christian Atsu
+player/586,age,22
+player/586,position,MF
+player/586,in_team,country/21
+player/586,team_presences,22
+player/586,in_club,club/17
+player/587,name,Adam Kwarasey
+player/587,age,26
+player/587,position,GK
+player/587,in_team,country/21
+player/587,team_presences,21
+player/587,in_club,club/9
+player/588,name,Fatau Dauda
+player/588,age,29
+player/588,position,GK
+player/588,in_team,country/21
+player/588,team_presences,17
+player/588,in_club,club/64
+player/589,name,Wakaso Mubarak
+player/589,age,23
+player/589,position,MF
+player/589,in_team,country/21
+player/589,team_presences,16
+player/589,in_club,club/244
+player/590,name,Daniel Opare
+player/590,age,23
+player/590,position,DF
+player/590,in_team,country/21
+player/590,team_presences,16
+player/590,in_club,club/95
+player/591,name,Mohammed Rabiu
+player/591,age,24
+player/591,position,MF
+player/591,in_team,country/21
+player/591,team_presences,16
+player/591,in_club,club/52
+player/592,name,Albert Adomah
+player/592,age,26
+player/592,position,MF
+player/592,in_team,country/21
+player/592,team_presences,14
+player/592,in_club,club/192
+player/593,name,Kevin-Prince Boateng
+player/593,age,27
+player/593,position,FW
+player/593,in_team,country/21
+player/593,team_presences,12
+player/593,in_club,club/128
+player/594,name,Jordan Ayew
+player/594,age,22
+player/594,position,FW
+player/594,in_team,country/21
+player/594,team_presences,12
+player/594,in_club,club/136
+player/595,name,Majeed Waris
+player/595,age,22
+player/595,position,FW
+player/595,in_team,country/21
+player/595,team_presences,9
+player/595,in_club,club/11
+player/596,name,Steven Adams
+player/596,age,24
+player/596,position,GK
+player/596,in_team,country/21
+player/596,team_presences,7
+player/596,in_club,club/139
+player/597,name,Rashid Sumaila
+player/597,age,21
+player/597,position,DF
+player/597,in_team,country/21
+player/597,team_presences,6
+player/597,in_club,club/68
+player/598,name,Afriyie Acquah
+player/598,age,22
+player/598,position,MF
+player/598,in_team,country/21
+player/598,team_presences,4
+player/598,in_club,club/178
+player/599,name,Eduardo
+player/599,age,31
+player/599,position,GK
+player/599,in_team,country/5
+player/599,team_presences,33
+player/599,in_club,club/195
+player/600,name,Bruno Alves
+player/600,age,32
+player/600,position,DF
+player/600,in_team,country/5
+player/600,team_presences,71
+player/600,in_club,club/229
+player/601,name,Pepe
+player/601,age,31
+player/601,position,DF
+player/601,in_team,country/5
+player/601,team_presences,57
+player/601,in_club,club/90
+player/602,name,Miguel Veloso
+player/602,age,28
+player/602,position,MF
+player/602,in_team,country/5
+player/602,team_presences,47
+player/602,in_club,club/50
+player/603,name,Fábio Coentrão
+player/603,age,26
+player/603,position,DF
+player/603,in_team,country/5
+player/603,team_presences,43
+player/603,in_club,club/90
+player/604,name,William Carvalho
+player/604,age,22
+player/604,position,MF
+player/604,in_team,country/5
+player/604,team_presences,3
+player/604,in_club,club/40
+player/605,name,Cristiano Ronaldo (c)
+player/605,age,29
+player/605,position,FW
+player/605,in_team,country/5
+player/605,team_presences,110
+player/605,in_club,club/90
+player/606,name,João Moutinho
+player/606,age,27
+player/606,position,MF
+player/606,in_team,country/5
+player/606,team_presences,66
+player/606,in_club,club/234
+player/607,name,Hugo Almeida
+player/607,age,30
+player/607,position,FW
+player/607,in_team,country/5
+player/607,team_presences,54
+player/607,in_club,club/221
+player/608,name,Vieirinha
+player/608,age,28
+player/608,position,MF
+player/608,in_team,country/5
+player/608,team_presences,7
+player/608,in_club,club/81
+player/609,name,Éder
+player/609,age,26
+player/609,position,FW
+player/609,in_team,country/5
+player/609,team_presences,7
+player/609,in_club,club/195
+player/610,name,Rui Patrício
+player/610,age,26
+player/610,position,GK
+player/610,in_team,country/5
+player/610,team_presences,29
+player/610,in_club,club/40
+player/611,name,Ricardo Costa
+player/611,age,33
+player/611,position,DF
+player/611,in_team,country/5
+player/611,team_presences,18
+player/611,in_club,club/297
+player/612,name,Luís Neto
+player/612,age,26
+player/612,position,DF
+player/612,in_team,country/5
+player/612,team_presences,7
+player/612,in_club,club/109
+player/613,name,Rafa Silva
+player/613,age,21
+player/613,position,MF
+player/613,in_team,country/5
+player/613,team_presences,2
+player/613,in_club,club/195
+player/614,name,Raul Meireles
+player/614,age,31
+player/614,position,MF
+player/614,in_team,country/5
+player/614,team_presences,73
+player/614,in_club,club/229
+player/615,name,Nani
+player/615,age,27
+player/615,position,MF
+player/615,in_team,country/5
+player/615,team_presences,73
+player/615,in_club,club/292
+player/616,name,Silvestre Varela
+player/616,age,29
+player/616,position,MF
+player/616,in_team,country/5
+player/616,team_presences,22
+player/616,in_club,club/208
+player/617,name,André Almeida
+player/617,age,23
+player/617,position,DF
+player/617,in_team,country/5
+player/617,team_presences,3
+player/617,in_club,club/104
+player/618,name,Rúben Amorim
+player/618,age,29
+player/618,position,MF
+player/618,in_team,country/5
+player/618,team_presences,11
+player/618,in_club,club/104
+player/619,name,João Pereira
+player/619,age,30
+player/619,position,DF
+player/619,in_team,country/5
+player/619,team_presences,35
+player/619,in_club,club/297
+player/620,name,Beto
+player/620,age,32
+player/620,position,GK
+player/620,in_team,country/5
+player/620,team_presences,7
+player/620,in_club,club/253
+player/621,name,Hélder Postiga
+player/621,age,31
+player/621,position,FW
+player/621,in_team,country/5
+player/621,team_presences,67
+player/621,in_club,club/172
+player/622,name,Tim Howard
+player/622,age,35
+player/622,position,GK
+player/622,in_team,country/29
+player/622,team_presences,99
+player/622,in_club,club/70
+player/623,name,DeAndre Yedlin
+player/623,age,20
+player/623,position,DF
+player/623,in_team,country/29
+player/623,team_presences,4
+player/623,in_club,club/1
+player/624,name,Omar Gonzalez
+player/624,age,25
+player/624,position,DF
+player/624,in_team,country/29
+player/624,team_presences,19
+player/624,in_club,club/260
+player/625,name,Michael Bradley
+player/625,age,26
+player/625,position,MF
+player/625,in_team,country/29
+player/625,team_presences,85
+player/625,in_club,club/110
+player/626,name,Matt Besler
+player/626,age,27
+player/626,position,DF
+player/626,in_team,country/29
+player/626,team_presences,16
+player/626,in_club,club/66
+player/627,name,John Brooks
+player/627,age,21
+player/627,position,DF
+player/627,in_team,country/29
+player/627,team_presences,4
+player/627,in_club,club/49
+player/628,name,DaMarcus Beasley
+player/628,age,32
+player/628,position,DF
+player/628,in_team,country/29
+player/628,team_presences,115
+player/628,in_club,club/190
+player/629,name,Clint Dempsey (c)
+player/629,age,31
+player/629,position,FW
+player/629,in_team,country/29
+player/629,team_presences,104
+player/629,in_club,club/1
+player/630,name,Aron Jóhannsson
+player/630,age,23
+player/630,position,FW
+player/630,in_team,country/29
+player/630,team_presences,8
+player/630,in_club,club/34
+player/631,name,Mikkel Diskerud
+player/631,age,23
+player/631,position,MF
+player/631,in_team,country/29
+player/631,team_presences,19
+player/631,in_club,club/27
+player/632,name,Alejandro Bedoya
+player/632,age,27
+player/632,position,MF
+player/632,in_team,country/29
+player/632,team_presences,27
+player/632,in_club,club/274
+player/633,name,Brad Guzan
+player/633,age,29
+player/633,position,GK
+player/633,in_team,country/29
+player/633,team_presences,25
+player/633,in_club,club/163
+player/634,name,Jermaine Jones
+player/634,age,32
+player/634,position,MF
+player/634,in_team,country/29
+player/634,team_presences,41
+player/634,in_club,club/221
+player/635,name,Brad Davis
+player/635,age,32
+player/635,position,MF
+player/635,in_team,country/29
+player/635,team_presences,16
+player/635,in_club,club/75
+player/636,name,Kyle Beckerman
+player/636,age,32
+player/636,position,MF
+player/636,in_team,country/29
+player/636,team_presences,36
+player/636,in_club,club/146
+player/637,name,Julian Green
+player/637,age,19
+player/637,position,MF
+player/637,in_team,country/29
+player/637,team_presences,2
+player/637,in_club,club/207
+player/638,name,Jozy Altidore
+player/638,age,24
+player/638,position,FW
+player/638,in_team,country/29
+player/638,team_presences,69
+player/638,in_club,club/182
+player/639,name,Chris Wondolowski
+player/639,age,31
+player/639,position,FW
+player/639,in_team,country/29
+player/639,team_presences,20
+player/639,in_club,club/277
+player/640,name,Graham Zusi
+player/640,age,27
+player/640,position,MF
+player/640,in_team,country/29
+player/640,team_presences,22
+player/640,in_club,club/66
+player/641,name,Geoff Cameron
+player/641,age,28
+player/641,position,DF
+player/641,in_team,country/29
+player/641,team_presences,26
+player/641,in_club,club/165
+player/642,name,Timothy Chandler
+player/642,age,24
+player/642,position,DF
+player/642,in_team,country/29
+player/642,team_presences,12
+player/642,in_club,club/278
+player/643,name,Nick Rimando
+player/643,age,34
+player/643,position,GK
+player/643,in_team,country/29
+player/643,team_presences,14
+player/643,in_club,club/146
+player/644,name,Fabian Johnson
+player/644,age,26
+player/644,position,DF
+player/644,in_team,country/29
+player/644,team_presences,21
+player/644,in_club,club/19
+player/645,name,Abdelmoumene Djabou
+player/645,age,27
+player/645,position,MF
+player/645,in_team,country/12
+player/645,team_presences,76
+player/645,in_club,club/240
+player/646,name,Madjid Bougherra (c)
+player/646,age,31
+player/646,position,DF
+player/646,in_team,country/12
+player/646,team_presences,61
+player/646,in_club,club/164
+player/647,name,Medhi Lacen
+player/647,age,30
+player/647,position,MF
+player/647,in_team,country/12
+player/647,team_presences,29
+player/647,in_club,club/147
+player/648,name,Rafik Halliche
+player/648,age,27
+player/648,position,DF
+player/648,in_team,country/12
+player/648,team_presences,28
+player/648,in_club,club/108
+player/649,name,Raïs M'Bolhi
+player/649,age,28
+player/649,position,GK
+player/649,in_team,country/12
+player/649,team_presences,27
+player/649,in_club,club/158
+player/650,name,Djamel Mesbah
+player/650,age,29
+player/650,position,DF
+player/650,in_team,country/12
+player/650,team_presences,26
+player/650,in_club,club/126
+player/651,name,Carl Medjani
+player/651,age,29
+player/651,position,DF
+player/651,in_team,country/12
+player/651,team_presences,25
+player/651,in_club,club/11
+player/652,name,Hassan Yebda
+player/652,age,30
+player/652,position,MF
+player/652,in_team,country/12
+player/652,team_presences,24
+player/652,in_club,club/286
+player/653,name,Mehdi Mostefa
+player/653,age,30
+player/653,position,MF
+player/653,in_team,country/12
+player/653,team_presences,22
+player/653,in_club,club/55
+player/654,name,El Arbi Hillel Soudani
+player/654,age,26
+player/654,position,FW
+player/654,in_team,country/12
+player/654,team_presences,21
+player/654,in_club,club/123
+player/655,name,Islam Slimani
+player/655,age,25
+player/655,position,FW
+player/655,in_team,country/12
+player/655,team_presences,19
+player/655,in_club,club/40
+player/656,name,Sofiane Feghouli
+player/656,age,24
+player/656,position,MF
+player/656,in_team,country/12
+player/656,team_presences,18
+player/656,in_club,club/297
+player/657,name,Essaïd Belkalem
+player/657,age,25
+player/657,position,DF
+player/657,in_team,country/12
+player/657,team_presences,13
+player/657,in_club,club/121
+player/658,name,Saphir Taïder
+player/658,age,22
+player/658,position,MF
+player/658,in_team,country/12
+player/658,team_presences,10
+player/658,in_club,club/268
+player/659,name,Mohamed Zemmamouche
+player/659,age,29
+player/659,position,GK
+player/659,in_team,country/12
+player/659,team_presences,7
+player/659,in_club,club/200
+player/660,name,Liassine Cadamuro-Bentaïba
+player/660,age,26
+player/660,position,DF
+player/660,in_team,country/12
+player/660,team_presences,6
+player/660,in_club,club/270
+player/661,name,Faouzi Ghoulam
+player/661,age,23
+player/661,position,DF
+player/661,in_team,country/12
+player/661,team_presences,5
+player/661,in_club,club/94
+player/662,name,Yacine Brahimi
+player/662,age,24
+player/662,position,MF
+player/662,in_team,country/12
+player/662,team_presences,5
+player/662,in_club,club/116
+player/663,name,Nabil Ghilas
+player/663,age,24
+player/663,position,FW
+player/663,in_team,country/12
+player/663,team_presences,5
+player/663,in_club,club/208
+player/664,name,Aïssa Mandi
+player/664,age,22
+player/664,position,DF
+player/664,in_team,country/12
+player/664,team_presences,2
+player/664,in_club,club/25
+player/665,name,Nabil Bentaleb
+player/665,age,19
+player/665,position,MF
+player/665,in_team,country/12
+player/665,team_presences,2
+player/665,in_club,club/243
+player/666,name,Cédric Si Mohamed
+player/666,age,29
+player/666,position,GK
+player/666,in_team,country/12
+player/666,team_presences,1
+player/666,in_club,club/142
+player/667,name,Riyad Mahrez
+player/667,age,23
+player/667,position,MF
+player/667,in_team,country/12
+player/667,team_presences,1
+player/667,in_club,club/189
+player/668,name,Thibaut Courtois
+player/668,age,22
+player/668,position,GK
+player/668,in_team,country/25
+player/668,team_presences,16
+player/668,in_club,club/14
+player/669,name,Toby Alderweireld
+player/669,age,25
+player/669,position,DF
+player/669,in_team,country/25
+player/669,team_presences,34
+player/669,in_club,club/14
+player/670,name,Thomas Vermaelen
+player/670,age,28
+player/670,position,DF
+player/670,in_team,country/25
+player/670,team_presences,48
+player/670,in_club,club/51
+player/671,name,Vincent Kompany (c)
+player/671,age,28
+player/671,position,DF
+player/671,in_team,country/25
+player/671,team_presences,59
+player/671,in_club,club/111
+player/672,name,Jan Vertonghen
+player/672,age,27
+player/672,position,DF
+player/672,in_team,country/25
+player/672,team_presences,56
+player/672,in_club,club/243
+player/673,name,Axel Witsel
+player/673,age,25
+player/673,position,MF
+player/673,in_team,country/25
+player/673,team_presences,48
+player/673,in_club,club/109
+player/674,name,Kevin De Bruyne
+player/674,age,22
+player/674,position,MF
+player/674,in_team,country/25
+player/674,team_presences,22
+player/674,in_club,club/81
+player/675,name,Marouane Fellaini
+player/675,age,26
+player/675,position,MF
+player/675,in_team,country/25
+player/675,team_presences,50
+player/675,in_club,club/292
+player/676,name,Romelu Lukaku
+player/676,age,21
+player/676,position,FW
+player/676,in_team,country/25
+player/676,team_presences,29
+player/676,in_club,club/70
+player/677,name,Eden Hazard
+player/677,age,23
+player/677,position,MF
+player/677,in_team,country/25
+player/677,team_presences,45
+player/677,in_club,club/238
+player/678,name,Kevin Mirallas
+player/678,age,26
+player/678,position,MF
+player/678,in_team,country/25
+player/678,team_presences,44
+player/678,in_club,club/70
+player/679,name,Simon Mignolet
+player/679,age,25
+player/679,position,GK
+player/679,in_team,country/25
+player/679,team_presences,14
+player/679,in_club,club/87
+player/680,name,Sammy Bossut
+player/680,age,28
+player/680,position,GK
+player/680,in_team,country/25
+player/680,team_presences,1
+player/680,in_club,club/210
+player/681,name,Dries Mertens
+player/681,age,27
+player/681,position,FW
+player/681,in_team,country/25
+player/681,team_presences,24
+player/681,in_club,club/94
+player/682,name,Daniel Van Buyten
+player/682,age,36
+player/682,position,DF
+player/682,in_team,country/25
+player/682,team_presences,79
+player/682,in_club,club/207
+player/683,name,Steven Defour
+player/683,age,26
+player/683,position,MF
+player/683,in_team,country/25
+player/683,team_presences,43
+player/683,in_club,club/208
+player/684,name,Divock Origi
+player/684,age,19
+player/684,position,FW
+player/684,in_team,country/25
+player/684,team_presences,2
+player/684,in_club,club/39
+player/685,name,Nicolas Lombaerts
+player/685,age,29
+player/685,position,DF
+player/685,in_team,country/25
+player/685,team_presences,26
+player/685,in_club,club/109
+player/686,name,Mousa Dembélé
+player/686,age,26
+player/686,position,MF
+player/686,in_team,country/25
+player/686,team_presences,55
+player/686,in_club,club/243
+player/687,name,Adnan Januzaj
+player/687,age,19
+player/687,position,MF
+player/687,in_team,country/25
+player/687,team_presences,1
+player/687,in_club,club/292
+player/688,name,Anthony Vanden Borre
+player/688,age,26
+player/688,position,DF
+player/688,in_team,country/25
+player/688,team_presences,25
+player/688,in_club,club/284
+player/689,name,Nacer Chadli
+player/689,age,24
+player/689,position,MF
+player/689,in_team,country/25
+player/689,team_presences,20
+player/689,in_club,club/243
+player/690,name,Laurent Ciman
+player/690,age,28
+player/690,position,DF
+player/690,in_team,country/25
+player/690,team_presences,8
+player/690,in_club,club/95
+player/691,name,Igor Akinfeev
+player/691,age,28
+player/691,position,GK
+player/691,in_team,country/32
+player/691,team_presences,67
+player/691,in_club,club/141
+player/692,name,Aleksei Kozlov
+player/692,age,27
+player/692,position,DF
+player/692,in_team,country/32
+player/692,team_presences,10
+player/692,in_club,club/170
+player/693,name,Georgi Shchennikov
+player/693,age,23
+player/693,position,DF
+player/693,in_team,country/32
+player/693,team_presences,3
+player/693,in_club,club/141
+player/694,name,Sergei Ignashevich
+player/694,age,34
+player/694,position,DF
+player/694,in_team,country/32
+player/694,team_presences,95
+player/694,in_club,club/141
+player/695,name,Yuri Zhirkov
+player/695,age,30
+player/695,position,FW
+player/695,in_team,country/32
+player/695,team_presences,59
+player/695,in_club,club/170
+player/696,name,Andrei Semyonov
+player/696,age,25
+player/696,position,DF
+player/696,in_team,country/32
+player/696,team_presences,1
+player/696,in_club,club/239
+player/697,name,Igor Denisov
+player/697,age,30
+player/697,position,MF
+player/697,in_team,country/32
+player/697,team_presences,42
+player/697,in_club,club/170
+player/698,name,Denis Glushakov
+player/698,age,27
+player/698,position,MF
+player/698,in_team,country/32
+player/698,team_presences,26
+player/698,in_club,club/86
+player/699,name,Aleksandr Kokorin
+player/699,age,23
+player/699,position,FW
+player/699,in_team,country/32
+player/699,team_presences,20
+player/699,in_club,club/170
+player/700,name,Alan Dzagoev
+player/700,age,23
+player/700,position,MF
+player/700,in_team,country/32
+player/700,team_presences,31
+player/700,in_club,club/141
+player/701,name,Aleksandr Kerzhakov
+player/701,age,31
+player/701,position,FW
+player/701,in_team,country/32
+player/701,team_presences,79
+player/701,in_club,club/109
+player/702,name,Yuri Lodygin
+player/702,age,24
+player/702,position,GK
+player/702,in_team,country/32
+player/702,team_presences,2
+player/702,in_club,club/109
+player/703,name,Vladimir Granat
+player/703,age,27
+player/703,position,DF
+player/703,in_team,country/32
+player/703,team_presences,4
+player/703,in_club,club/170
+player/704,name,Vasili Berezutski
+player/704,age,31
+player/704,position,DF
+player/704,in_team,country/32
+player/704,team_presences,77
+player/704,in_club,club/141
+player/705,name,Roman Shirokov (c)
+player/705,age,32
+player/705,position,MF
+player/705,in_team,country/32
+player/705,team_presences,40
+player/705,in_club,club/267
+player/706,name,Sergey Ryzhikov
+player/706,age,33
+player/706,position,GK
+player/706,in_team,country/32
+player/706,team_presences,1
+player/706,in_club,club/244
+player/707,name,Oleg Shatov
+player/707,age,23
+player/707,position,MF
+player/707,in_team,country/32
+player/707,team_presences,6
+player/707,in_club,club/109
+player/708,name,Aleksei Ionov
+player/708,age,25
+player/708,position,FW
+player/708,in_team,country/32
+player/708,team_presences,5
+player/708,in_club,club/170
+player/709,name,Aleksandr Samedov
+player/709,age,29
+player/709,position,FW
+player/709,in_team,country/32
+player/709,team_presences,16
+player/709,in_club,club/159
+player/710,name,Viktor Fayzulin
+player/710,age,28
+player/710,position,MF
+player/710,in_team,country/32
+player/710,team_presences,18
+player/710,in_club,club/109
+player/711,name,Maksim Kanunnikov
+player/711,age,22
+player/711,position,FW
+player/711,in_team,country/32
+player/711,team_presences,2
+player/711,in_club,club/244
+player/712,name,Andrey Yeshchenko
+player/712,age,30
+player/712,position,DF
+player/712,in_team,country/32
+player/712,team_presences,11
+player/712,in_club,club/175
+player/713,name,Dmitri Kombarov
+player/713,age,27
+player/713,position,DF
+player/713,in_team,country/32
+player/713,team_presences,21
+player/713,in_club,club/86
+player/714,name,Jung Sung-Ryong
+player/714,age,29
+player/714,position,GK
+player/714,in_team,country/8
+player/714,team_presences,60
+player/714,in_club,club/232
+player/715,name,Kim Chang-Soo
+player/715,age,28
+player/715,position,DF
+player/715,in_team,country/8
+player/715,team_presences,8
+player/715,in_club,club/252
+player/716,name,Yun Suk-Young
+player/716,age,24
+player/716,position,DF
+player/716,in_team,country/8
+player/716,team_presences,3
+player/716,in_club,club/228
+player/717,name,Kwak Tae-Hwi
+player/717,age,32
+player/717,position,DF
+player/717,in_team,country/8
+player/717,team_presences,34
+player/717,in_club,club/127
+player/718,name,Kim Young-Gwon
+player/718,age,24
+player/718,position,DF
+player/718,in_team,country/8
+player/718,team_presences,20
+player/718,in_club,club/143
+player/719,name,Hwang Seok-Ho
+player/719,age,24
+player/719,position,DF
+player/719,in_team,country/8
+player/719,team_presences,3
+player/719,in_club,club/69
+player/720,name,Kim Bo-Kyung
+player/720,age,24
+player/720,position,MF
+player/720,in_team,country/8
+player/720,team_presences,27
+player/720,in_club,club/149
+player/721,name,Ha Dae-Sung
+player/721,age,29
+player/721,position,MF
+player/721,in_team,country/8
+player/721,team_presences,13
+player/721,in_club,club/42
+player/722,name,Son Heung-Min
+player/722,age,21
+player/722,position,FW
+player/722,in_team,country/8
+player/722,team_presences,24
+player/722,in_club,club/23
+player/723,name,Park Chu-Young
+player/723,age,28
+player/723,position,FW
+player/723,in_team,country/8
+player/723,team_presences,63
+player/723,in_club,club/121
+player/724,name,Lee Keun-Ho
+player/724,age,29
+player/724,position,FW
+player/724,in_team,country/8
+player/724,team_presences,63
+player/724,in_club,club/138
+player/725,name,Lee Yong
+player/725,age,27
+player/725,position,DF
+player/725,in_team,country/8
+player/725,team_presences,11
+player/725,in_club,club/7
+player/726,name,Koo Ja-Cheol (c)
+player/726,age,25
+player/726,position,MF
+player/726,in_team,country/8
+player/726,team_presences,36
+player/726,in_club,club/250
+player/727,name,Han Kook-Young
+player/727,age,24
+player/727,position,MF
+player/727,in_team,country/8
+player/727,team_presences,9
+player/727,in_club,club/252
+player/728,name,Park Jong-Woo
+player/728,age,25
+player/728,position,MF
+player/728,in_team,country/8
+player/728,team_presences,10
+player/728,in_club,club/174
+player/729,name,Ki Sung-Yueng
+player/729,age,25
+player/729,position,MF
+player/729,in_team,country/8
+player/729,team_presences,58
+player/729,in_club,club/182
+player/730,name,Lee Chung-Yong
+player/730,age,25
+player/730,position,MF
+player/730,in_team,country/8
+player/730,team_presences,54
+player/730,in_club,club/106
+player/731,name,Kim Shin-Wook
+player/731,age,26
+player/731,position,FW
+player/731,in_team,country/8
+player/731,team_presences,26
+player/731,in_club,club/7
+player/732,name,Ji Dong-Won
+player/732,age,23
+player/732,position,FW
+player/732,in_team,country/8
+player/732,team_presences,27
+player/732,in_club,club/285
+player/733,name,Hong Jeong-Ho
+player/733,age,24
+player/733,position,DF
+player/733,in_team,country/8
+player/733,team_presences,24
+player/733,in_club,club/285
+player/734,name,Kim Seung-Gyu
+player/734,age,23
+player/734,position,GK
+player/734,in_team,country/8
+player/734,team_presences,5
+player/734,in_club,club/153
+player/735,name,Park Joo-Ho[56]
+player/735,age,27
+player/735,position,DF
+player/735,in_team,country/8
+player/735,team_presences,13
+player/735,in_club,club/250
+player/736,name,Lee Bum-Young
+player/736,age,25
+player/736,position,GK
+player/736,in_team,country/8
+player/736,team_presences,0
+player/736,in_club,club/198
+team/1,group,A
+team/1,from_country,country/11
+team/1,captain,player/3
+team/2,group,A
+team/2,from_country,country/1
+team/2,captain,player/24
+team/3,group,A
+team/3,from_country,country/43
+team/3,captain,player/57
+team/4,group,A
+team/4,from_country,country/51
+team/4,captain,player/73
+team/5,group,B
+team/5,from_country,country/53
+team/5,captain,player/107
+team/6,group,B
+team/6,from_country,country/13
+team/6,captain,player/116
+team/7,group,B
+team/7,from_country,country/34
+team/7,captain,player/147
+team/8,group,B
+team/8,from_country,country/47
+team/8,captain,player/162
+team/9,group,C
+team/9,from_country,country/31
+team/9,captain,player/187
+team/10,group,C
+team/10,from_country,country/6
+team/10,captain,player/217
+team/11,group,C
+team/11,from_country,country/18
+team/11,captain,player/247
+team/12,group,C
+team/12,from_country,country/14
+team/12,captain,player/256
+team/13,group,D
+team/13,from_country,country/33
+team/13,captain,player/279
+team/14,group,D
+team/14,from_country,country/3
+team/14,captain,player/303
+team/15,group,D
+team/15,from_country,country/26
+team/15,captain,player/323
+team/16,group,D
+team/16,from_country,country/44
+team/16,captain,player/347
+team/17,group,E
+team/17,from_country,country/15
+team/17,captain,player/384
+team/18,group,E
+team/18,from_country,country/38
+team/18,captain,player/392
+team/19,group,E
+team/19,from_country,country/27
+team/19,captain,player/432
+team/20,group,E
+team/20,from_country,country/46
+team/20,captain,player/445
+team/21,group,F
+team/21,from_country,country/16
+team/21,captain,player/470
+team/22,group,F
+team/22,from_country,country/20
+team/22,captain,player/487
+team/23,group,F
+team/23,from_country,country/9
+team/23,captain,player/507
+team/24,group,F
+team/24,from_country,country/40
+team/24,captain,player/531
+team/25,group,G
+team/25,from_country,country/28
+team/25,captain,player/568
+team/26,group,G
+team/26,from_country,country/21
+team/26,captain,player/577
+team/27,group,G
+team/27,from_country,country/5
+team/27,captain,player/605
+team/28,group,G
+team/28,from_country,country/29
+team/28,captain,player/629
+team/29,group,H
+team/29,from_country,country/12
+team/29,captain,player/646
+team/30,group,H
+team/30,from_country,country/25
+team/30,captain,player/671
+team/31,group,H
+team/31,from_country,country/32
+team/31,captain,player/705
+team/32,group,H
+team/32,from_country,country/8
+team/32,captain,player/726
