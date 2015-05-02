@@ -37,7 +37,7 @@ def f2(graph):
 def f3(graph, str):
     qres = """
         PREFIX pred: <http://xmlns.com/work/>
-        SELECT ?playerID ?name ?position ?age ?nameTeam ?team_presences ?nameClub
+        SELECT ?playerID ?name ?position ?age ?nameTeam ?team_presences ?nameClub ?ageInference ?team_presencesInference
         WHERE {
             ?playerID pred:name ?name FILTER regex(?name, '""" + str + """', "i").
             ?playerID pred:playerID ?id .
@@ -51,6 +51,11 @@ def f3(graph, str):
             ?playerID pred:in_club ?in_club .
 
             ?in_club pred:name ?nameClub .
+
+            OPTIONAL {
+                ?playerID pred:ageInference ?ageInference .
+                ?playerID pred:inferenceTeam_presences ?team_presencesInference .
+            }
         }
     """
     return graph.query(qres)

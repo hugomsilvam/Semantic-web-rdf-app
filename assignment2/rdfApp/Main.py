@@ -1,9 +1,9 @@
 import inspect
 import os
 import rdflib
-from rdflib import ConjunctiveGraph
+from rdflib import ConjunctiveGraph, URIRef, Literal
 import sys
-from rdfApp import converter, Queries
+from rdfApp import converter, Queries, InferenceRule
 
 
 __author__ = 'Hugo Silva'
@@ -79,8 +79,9 @@ def f5():
 def f6():
     str = input("Name -> ")
     results = Queries.f3(graph, str)
-    for subject, name, position, age, nameCC, team_presences, in_club in results:
-        print(" Name:", name, "\n", "Position:", position, "\n", "Age:", age, "\n", "Team:", nameCC, "\n", "Presences:", team_presences, "\n", "Club:", in_club)
+    for subject, name, position, age, nameCC, team_presences, in_club, inferenceAge, inferenceTeam_presences in results:
+        print(" Name:", name, "\n", " Position:", position, "\n", " Age:", age, "\n", " Team:", nameCC, "\n", " Presences:", team_presences, "\n", " Club:", in_club, "\n", " Inference Age:", inferenceAge, "\n", " Inference Team Presences:", inferenceTeam_presences, "\n")
+    print("Number of players: %d" %(len(results)))
 
 # List Clubs from one country that have players of the same country and went to world cup
 # example: List Portuguese Clubs with Portuguese players that went to world cup
@@ -115,6 +116,30 @@ def f10():
     for clubName, countryName in results:
         print("Club name: %s \t Country name: %s" %(clubName, countryName))
 
+#apply inferences to the players (inferenceAge, and inferenceTeamPresences)
+def f11():
+    print("In this function will be applied inference to all players. Inference to the player's age and to the player's team presences.\n"
+          " - To the player's age: if the player has less than equal 24 years old => belongs to Sub 24 team, "
+          "ELSE IF player has more than 32 years old => This is the last world cup to this player.\n"
+          " - To the player's team presence: if the player has less than equal 10 team presences => This player it debuted recently for the Team, "
+          "ELSE IF player has more than 35 team presences => This player it's a veteran of the Team\n")
+
+    option = input("Do you want to apply inference? (Y or any other key to cancel): ")
+    if option[0].lower() == 'y':
+        # inference age
+        results = InferenceRule.f1(graph)
+        for sub, pred, obj in results:
+            graph.add((sub, pred, Literal(obj)))
+
+        # inference team presences
+        results1 = InferenceRule.f2(graph)
+        for sub, pred, obj in results1:
+            graph.add((sub, pred, Literal(obj)))
+
+        print("Inference applied with sucess!")
+    else:
+        print("Canceled by the user")
+
 def f0():
     sys.exit()
 
@@ -135,6 +160,7 @@ menuOptions = {
     8: f8,
     9: f9,
     10: f10,
+    11: f11,
     0: f0,
 }
 
@@ -160,7 +186,7 @@ while True:
     print("8. List Players from one Team")
     print("9. List Players from one Club")
     print("10. Get country name inserting club name")
-
+    print("11. Apply Inferences in all graph")
     print("10. Listar dados de um jogador com base em inferencias")
     print("10. Gerar ficheiro para visualizar o Grafo(.dot)")
     print("10. Gerar ficheiro para visualizar o Grafo(.dot) com dados de Portugal")
