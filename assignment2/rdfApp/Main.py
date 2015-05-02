@@ -75,8 +75,45 @@ def f5():
         print(name)
     print("Number of players: %d" %(len(results)))
 
+# List Player information (name, age, position, team name, team presences, club name)
 def f6():
-    a = 1
+    str = input("Name -> ")
+    results = Queries.f3(graph, str)
+    for subject, name, position, age, nameCC, team_presences, in_club in results:
+        print(" Name:", name, "\n", "Position:", position, "\n", "Age:", age, "\n", "Team:", nameCC, "\n", "Presences:", team_presences, "\n", "Club:", in_club)
+
+# List Clubs from one country that have players of the same country and went to world cup
+# example: List Portuguese Clubs with Portuguese players that went to world cup
+def f7():
+    str = input("Country -> ")
+    results = Queries.f4(graph, str)
+    print(" Club name \t - Player Name")
+    for clubName, playerName in results:
+        print(" %s \t - %s"%(clubName,playerName))
+    print("Number players : %d" %(len(results)))
+
+# List Players from one Team
+def f8():
+    str = input("Country -> ")
+    results = Queries.f5(graph, str)
+    for subject, name in results:
+        print(" Player name:", name)
+    print("Number of players: %d" %(len(results)))
+
+# List Players from one Club
+def f9():
+    str = input("Club -> ")
+    results = Queries.f6(graph, str)
+    for subject, name in results:
+        print("Name:",name)
+    print("Number of players: %d" %(len(results)))
+
+# Get country name inserting club name
+def f10():
+    str = input("Club -> ")
+    results = Queries.f7(graph, str)
+    for clubName, countryName in results:
+        print("Club name: %s \t Country name: %s" %(clubName, countryName))
 
 def f0():
     sys.exit()
@@ -94,6 +131,10 @@ menuOptions = {
     4: f4,
     5: f5,
     6: f6,
+    7: f7,
+    8: f8,
+    9: f9,
+    10: f10,
     0: f0,
 }
 
@@ -115,31 +156,17 @@ while True:
     print("4. List Countrys name")
     print("5. List Players name")
     print("6. List data from Player name")
-    print("7. List clubs who have players playing in the world cup")
-    print("8. Listar clubes cujo jogadores participarem no mundial de um determinado País")
-    print("6. Listar jogadores de uma determinada Seleção")
-    print("7. Listar jogadores de um determinado clube")
-    print("8. Listar dados de um jogador com base em inferencias")
-    print("9. Gerar ficheiro para visualizar o Grafo(.dot)")
+    print("7. List Clubs from one country that have players of the same country and went to world cup")
+    print("8. List Players from one Team")
+    print("9. List Players from one Club")
+    print("10. Get country name inserting club name")
+
+    print("10. Listar dados de um jogador com base em inferencias")
+    print("10. Gerar ficheiro para visualizar o Grafo(.dot)")
     print("10. Gerar ficheiro para visualizar o Grafo(.dot) com dados de Portugal")
     print("0. Exit")
     str = input("Option -> ")
-    option = readIntegerValue(str, 0, 10)
+    option = readIntegerValue(str, 0, 15)
     if(isinstance(option,int)):
         menuOptions[option]()
 
-
-#-----------------TESTES-----------------
-    # get predicates list
-    #lista = set(graph.predicates())
-    #for a in lista:
-    #    print(a)
-
-    # get triple selection - maxi pereira
-    #lista = _graph.triples((rdflib.URIRef('http://ws_60015_76169.com/player361'), None, None))
-    #for a in lista:
-    #    print(a)
-
-    # namespaces in graph
-    #for prefix, uri in graph.namespaces():
-    #    print("%s - %s" %(prefix, uri))
