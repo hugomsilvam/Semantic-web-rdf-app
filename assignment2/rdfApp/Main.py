@@ -140,6 +140,26 @@ def f11():
     else:
         print("Canceled by the user")
 
+# Update RDF Files (NT, XML, N3, and DB Files
+def f12():
+    # create updated NT file
+    graph.serialize(destination=filePathNT, format='nt')
+    # create updated XML file
+    graph.serialize(destination=filePathXML, format='pretty-xml')
+    # create updated N3 file
+    graph.serialize(destination=filePathN3, format='n3')
+
+    # create updated DB file.
+    # first, we have to remove DB file to prevent this error: sqlite3.OperationalError: table kb_bec6803d52_asserted_statements already exists
+    os.remove(filePathDB)
+
+    g = rdflib.ConjunctiveGraph('SQLite')
+    g.open(filePathDB, create=True)
+    for t in graph.triples((None, None, None)):
+        g.add(t)
+    g.commit()
+    g.close()
+
 def f0():
     sys.exit()
 
@@ -161,6 +181,7 @@ menuOptions = {
     9: f9,
     10: f10,
     11: f11,
+    12: f12,
     0: f0,
 }
 
@@ -187,12 +208,10 @@ while True:
     print("9. List Players from one Club")
     print("10. Get country name inserting club name")
     print("11. Apply Inferences in all graph")
-    print("10. Listar dados de um jogador com base em inferencias")
-    print("10. Gerar ficheiro para visualizar o Grafo(.dot)")
-    print("10. Gerar ficheiro para visualizar o Grafo(.dot) com dados de Portugal")
+    print("12. Update RDF Files (NT, XML, N3, and DB Files")
     print("0. Exit")
     str = input("Option -> ")
-    option = readIntegerValue(str, 0, 15)
+    option = readIntegerValue(str, 0, 12)
     if(isinstance(option,int)):
         menuOptions[option]()
 
