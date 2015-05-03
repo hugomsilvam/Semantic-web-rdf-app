@@ -48,35 +48,29 @@ def f1_2():
     c.convert_NTfile_to_N3_format(filePathN3)
     print("Conversion completed!")
 
-# Load NT file - probably will be deleted because we do the same in the beginning of the script
-def f2():
-    # insert data in graph (located in converter.py)
-    # very important, the graph is in converter.py (self.graph)
-    graph = c.read_NTfile_to_graph(filePathNT)
-
 # Store data in DB (SQLite) - convert NT_file data in DB file
-def f3():
+def f2():
     c.convert_NTfile_to_DB_format(filePathDB)
     print("Conversion completed!")
 
 
 #-----------------Queries-----------------
 # List countrys
-def f4():
+def f3():
     results = Queries.f1(graph)
     for subject, name in results:
         print(name)
     print("Number of countrys: %d" %(len(results)))
 
 # List Players name
-def f5():
+def f4():
     results = Queries.f2(graph)
     for subject, name in results:
         print(name)
     print("Number of players: %d" %(len(results)))
 
 # List Player information (name, age, position, team name, team presences, club name)
-def f6():
+def f5():
     str = input("Name -> ")
     results = Queries.f3(graph, str)
     for subject, name, position, age, nameCC, team_presences, in_club, inferenceAge, inferenceTeam_presences in results:
@@ -85,7 +79,7 @@ def f6():
 
 # List Clubs from one country that have players of the same country and went to world cup
 # example: List Portuguese Clubs with Portuguese players that went to world cup
-def f7():
+def f6():
     str = input("Country -> ")
     results = Queries.f4(graph, str)
     print(" Club name \t - Player Name")
@@ -94,7 +88,7 @@ def f7():
     print("Number players : %d" %(len(results)))
 
 # List Players from one Team
-def f8():
+def f7():
     str = input("Country -> ")
     results = Queries.f5(graph, str)
     for subject, name in results:
@@ -102,7 +96,7 @@ def f8():
     print("Number of players: %d" %(len(results)))
 
 # List Players from one Club
-def f9():
+def f8():
     str = input("Club -> ")
     results = Queries.f6(graph, str)
     for subject, name in results:
@@ -110,14 +104,14 @@ def f9():
     print("Number of players: %d" %(len(results)))
 
 # Get country name inserting club name
-def f10():
+def f9():
     str = input("Club -> ")
     results = Queries.f7(graph, str)
     for clubName, countryName in results:
         print("Club name: %s \t Country name: %s" %(clubName, countryName))
 
 #apply inferences to the players (inferenceAge, and inferenceTeamPresences)
-def f11():
+def f10():
     print("In this function will be applied inference to all players. Inference to the player's age and to the player's team presences.\n"
           " - To the player's age: if the player has less than equal 24 years old => belongs to Sub 24 team, "
           "ELSE IF player has more than 32 years old => This is the last world cup to this player.\n"
@@ -141,7 +135,7 @@ def f11():
         print("Canceled by the user")
 
 # Update RDF Files (NT, XML, N3, and DB Files
-def f12():
+def f11():
     # create updated NT file
     graph.serialize(destination=filePathNT, format='nt')
     # create updated XML file
@@ -151,7 +145,9 @@ def f12():
 
     # create updated DB file.
     # first, we have to remove DB file to prevent this error: sqlite3.OperationalError: table kb_bec6803d52_asserted_statements already exists
-    os.remove(filePathDB)
+
+    if os.path.isfile(filePathDB) == True:
+        os.remove(filePathDB)
 
     g = rdflib.ConjunctiveGraph('SQLite')
     g.open(filePathDB, create=True)
@@ -181,7 +177,6 @@ menuOptions = {
     9: f9,
     10: f10,
     11: f11,
-    12: f12,
     0: f0,
 }
 
@@ -198,20 +193,19 @@ def readIntegerValue(str, min, max):
 while True:
     print("\n*** WorldCup 2014 - Brazil ***")
     print("1. Convert NT file")
-    print("2. Load NT file (not needed...)")
-    print("3. Store data in DB (SQLite)")
-    print("4. List Countrys name")
-    print("5. List Players name")
-    print("6. List data from Player name")
-    print("7. List Clubs from one country that have players of the same country and went to world cup")
-    print("8. List Players from one Team")
-    print("9. List Players from one Club")
-    print("10. Get country name inserting club name")
-    print("11. Apply Inferences in all graph")
-    print("12. Update RDF Files (NT, XML, N3, and DB Files")
+    print("2. Store data in DB (SQLite)")
+    print("3. List Countrys name")
+    print("4. List Players name")
+    print("5. List data from Player name")
+    print("6. List Clubs from one country that have players of the same country and went to world cup")
+    print("7. List Players from one Team")
+    print("8. List Players from one Club")
+    print("9. Get country name inserting club name")
+    print("10. Apply Inferences in all graph")
+    print("11. Update RDF Files (NT, XML, N3, and DB Files")
     print("0. Exit")
     str = input("Option -> ")
-    option = readIntegerValue(str, 0, 12)
+    option = readIntegerValue(str, 0, 11)
     if(isinstance(option,int)):
         menuOptions[option]()
 
